@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T06:13:42Z",
+            "last_commit": "2026-08-15T04:53:55Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11141
+            "stars": 11149
           }
         },
         {
@@ -808,10 +808,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T06:13:42Z",
+            "last_commit": "2026-08-15T04:53:55Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11141
+            "stars": 11149
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22187
+            "stars": 22188
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2024-09-25T10:23:55Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V2",
-            "stars": 5029
+            "stars": 5031
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6555
+            "stars": 6560
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6555
+            "stars": 6560
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6555
+            "stars": 6560
           }
         }
       ],
@@ -1289,7 +1289,7 @@
             "last_commit": "2026-05-30T10:38:26Z",
             "owner": "NVlabs",
             "repo": "Fast-dLLM",
-            "stars": 1072
+            "stars": 1073
           }
         },
         {
@@ -1401,7 +1401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:49:49.885Z",
+    "last_updated": "2026-08-15T05:46:46.195Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_sha": "1cdb974e11f6467428079ef43276aa5883846114",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
