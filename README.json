@@ -24,7 +24,7 @@
             "last_commit": "2026-07-16T03:24:43Z",
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:53:55Z",
+            "last_commit": "2026-08-16T00:51:19Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11149
+            "stars": 11163
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2024-07-11T08:14:43Z",
             "owner": "mit-han-lab",
             "repo": "streaming-llm",
-            "stars": 7262
+            "stars": 7263
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T07:35:40Z",
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2025-07-10T21:54:27Z",
             "owner": "FasterDecoding",
             "repo": "SnapKV",
-            "stars": 329
+            "stars": 328
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-07-30T11:23:52Z",
             "owner": "Gumpest",
             "repo": "SparseVLMs",
-            "stars": 273
+            "stars": 272
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-02-11T05:54:19Z",
             "owner": "snu-mllab",
             "repo": "KVzip",
-            "stars": 225
+            "stars": 224
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2024-10-18T04:08:29Z",
             "owner": "sail-sg",
             "repo": "SimLayerKV",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -808,10 +808,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:53:55Z",
+            "last_commit": "2026-08-16T00:51:19Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11149
+            "stars": 11163
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22188
+            "stars": 22189
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2024-09-25T10:23:55Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V2",
-            "stars": 5031
+            "stars": 5032
           }
         },
         {
@@ -1081,7 +1081,7 @@
             "last_commit": "2026-03-27T22:30:40Z",
             "owner": "0xSero",
             "repo": "turboquant",
-            "stars": 1720
+            "stars": 1721
           }
         },
         {
@@ -1109,7 +1109,7 @@
             "last_commit": "2025-11-20T20:34:33Z",
             "owner": "jy-yuan",
             "repo": "KIVI",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6560
+            "stars": 6566
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6560
+            "stars": 6566
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6560
+            "stars": 6566
           }
         }
       ],
@@ -1401,7 +1401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:46:46.195Z",
+    "last_updated": "2026-08-16T05:49:36.603Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_sha": "1cdb974e11f6467428079ef43276aa5883846114",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
