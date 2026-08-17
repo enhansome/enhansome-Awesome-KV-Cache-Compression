@@ -24,7 +24,7 @@
             "last_commit": "2026-07-16T03:24:43Z",
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:51:19Z",
+            "last_commit": "2026-08-17T00:45:10Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11163
+            "stars": 11179
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2024-10-13T13:19:49Z",
             "owner": "schwartz-lab-NLP",
             "repo": "TOVA",
-            "stars": 130
+            "stars": 129
           }
         },
         {
@@ -768,6 +768,20 @@
         },
         {
           "node_type": "item",
+          "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.",
+          "description": "Changwoo Baek, Seungjun Shin, Kyeongbo Kong. Arxiv 2026.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T00:02:26Z",
+            "owner": "cvsp-lab",
+            "repo": "RestoreKV",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Efficient Sparse Attention needs Adaptive Token Release.",
           "description": "Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li. ACL 2024.",
           "children": [],
@@ -808,10 +822,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:51:19Z",
+            "last_commit": "2026-08-17T00:45:10Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11163
+            "stars": 11179
           }
         },
         {
@@ -1019,7 +1033,7 @@
             "last_commit": "2024-09-25T10:23:55Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V2",
-            "stars": 5032
+            "stars": 5031
           }
         },
         {
@@ -1081,7 +1095,7 @@
             "last_commit": "2026-03-27T22:30:40Z",
             "owner": "0xSero",
             "repo": "turboquant",
-            "stars": 1721
+            "stars": 1720
           }
         },
         {
@@ -1241,7 +1255,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6566
+            "stars": 6571
           }
         },
         {
@@ -1255,7 +1269,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6566
+            "stars": 6571
           }
         },
         {
@@ -1269,7 +1283,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6566
+            "stars": 6571
           }
         }
       ],
@@ -1401,9 +1415,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:49:36.603Z",
+    "last_updated": "2026-08-17T05:55:39.306Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
-    "original_repository_sha": "1cdb974e11f6467428079ef43276aa5883846114",
+    "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
     "enhanced_repository_description": null,
     "title": "Awesome KV Cache Compression with stars"

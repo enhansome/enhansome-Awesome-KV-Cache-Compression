@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/github/license/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression/blob/main/LICENSE) ⭐ 733 | 🐛 4 | 📅 2026-04-15
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,219 | 🐛 100 | 📅 2026-06-30
-[![commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression?color=blue)](https://github.com/October2001/Awesome-KV-Cache-Compression/commits/main) ⭐ 733 | 🐛 4 | 📅 2026-04-15
-[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/October2001/Awesome-KV-Cache-Compression/pulls) ⭐ 733 | 🐛 4 | 📅 2026-04-15
-[![GitHub Repo stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression) ⭐ 733 | 🐛 4 | 📅 2026-04-15
+[![LICENSE](https://img.shields.io/github/license/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression/blob/main/LICENSE) ⭐ 733 | 🐛 3 | 📅 2026-08-16
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,683 | 🐛 100 | 📅 2026-06-30
+[![commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression?color=blue)](https://github.com/October2001/Awesome-KV-Cache-Compression/commits/main) ⭐ 733 | 🐛 3 | 📅 2026-08-16
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/October2001/Awesome-KV-Cache-Compression/pulls) ⭐ 733 | 🐛 3 | 📅 2026-08-16
+[![GitHub Repo stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression) ⭐ 733 | 🐛 3 | 📅 2026-08-16
 
 </div>
 
@@ -34,9 +34,13 @@ This repository is constantly updating 🤗 ...
 
 * Unified KV Cache Compression Methods for Auto-Regressive Models.
 
+3. [**KV Cache Store.**](https://kvcachestore.com/) [![Website](https://img.shields.io/badge/Website-kvcachestore.com-blue)](https://kvcachestore.com/)
+
+* Hosted KV-cache artifact registry plus an open-source Rust CLI. Precompute, verify, quantize, and share attention states across RAG and long-context prompts to cut prefill cost and latency.
+
 ## 📷 Survey
 
-1. [**A Survey on Large Language Model Acceleration based on KV Cache Management.**](https://arxiv.org/abs/2412.19442) *Haoyang Li, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) ⭐ 349 | 🐛 2 | 📅 2026-07-16
+1. [**A Survey on Large Language Model Acceleration based on KV Cache Management.**](https://arxiv.org/abs/2412.19442) *Haoyang Li, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) ⭐ 350 | 🐛 2 | 📅 2026-07-16
 
 2. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai.* COLM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/zcli-charlie/Awesome-KV-Cache)](https://github.com/zcli-charlie/Awesome-KV-Cache) ⭐ 88 | 🐛 1 | 📅 2024-10-09
 
@@ -46,7 +50,7 @@ This repository is constantly updating 🤗 ...
 
 ### 1️⃣ Pruning / Evicting / Sparse
 
-1. [**CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.**](https://arxiv.org/abs/2310.07240) *Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang.* ACM SIGCOMM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 11,163 | 🐛 522 | 🌐 Python | 📅 2026-08-16
+1. [**CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.**](https://arxiv.org/abs/2310.07240) *Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang.* ACM SIGCOMM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 11,179 | 🐛 537 | 🌐 Python | 📅 2026-08-17
 
 2. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/abs/2309.17453) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* ICLR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,263 | 🐛 50 | 🌐 Python | 📅 2024-07-11
 
@@ -88,7 +92,7 @@ This repository is constantly updating 🤗 ...
 
 21. [**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.**](https://arxiv.org/abs/2407.11550) *Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FFY0/AdaKV)](https://github.com/FFY0/AdaKV) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2025-11-26
 
-22. [**Transformers are Multi-State RNNs.**](https://arxiv.org/abs/2401.06104) *Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA)](https://github.com/schwartz-lab-NLP/TOVA) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-10-13
+22. [**Transformers are Multi-State RNNs.**](https://arxiv.org/abs/2401.06104) *Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA)](https://github.com/schwartz-lab-NLP/TOVA) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2024-10-13
 
 23. [**\[CLS\] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.**](https://arxiv.org/pdf/2412.01818) *Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)](https://github.com/Theia-4869/FasterVLM) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2025-06-29
 
@@ -148,97 +152,99 @@ This repository is constantly updating 🤗 ...
 
 51. [**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.**](https://arxiv.org/pdf/2509.09754) *Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MGDDestiny/Lava)](https://github.com/MGDDestiny/Lava) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-09-17
 
-52. [**Efficient Sparse Attention needs Adaptive Token Release.**](https://arxiv.org/abs/2407.02328) *Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/WHUIR/ADORE)](https://github.com/WHUIR/ADORE) ⭐ 1 | 🐛 1 | 📅 2024-06-05
+52. [**RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.**](https://arxiv.org/abs/2608.01247) *Changwoo Baek, Seungjun Shin, Kyeongbo Kong.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/cvsp-lab/RestoreKV)](https://github.com/cvsp-lab/RestoreKV) ⭐ 3 | 🐛 0 | 📅 2026-08-10
 
-53. [**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.**](https://arxiv.org/abs/2407.20485) *Hyun Rae Jo, Dong Kun Shin.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Dirac-Notation/A2SF)](https://github.com/Dirac-Notation/A2SF) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-04-20
+53. [**Efficient Sparse Attention needs Adaptive Token Release.**](https://arxiv.org/abs/2407.02328) *Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/WHUIR/ADORE)](https://github.com/WHUIR/ADORE) ⭐ 1 | 🐛 1 | 📅 2024-06-05
 
-54. [**Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time.**](https://arxiv.org/abs/2305.17118) *Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava.* NeurIPS 2023.
+54. [**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.**](https://arxiv.org/abs/2407.20485) *Hyun Rae Jo, Dong Kun Shin.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Dirac-Notation/A2SF)](https://github.com/Dirac-Notation/A2SF) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-04-20
 
-55. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://arxiv.org/abs/2310.01801) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024.
+55. [**Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time.**](https://arxiv.org/abs/2305.17118) *Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava.* NeurIPS 2023.
 
-56. [**Loki: Low-Rank Keys for Efficient Sparse Attention.**](https://arxiv.org/abs/2406.02542) *Prajwal Singhania, Siddharth Singh, Shwai He, Soheil Feizi, Abhinav Bhatele.* Arxiv 2024.
+56. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://arxiv.org/abs/2310.01801) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024.
 
-57. [**ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching.**](https://arxiv.org/abs/2403.17312) *Youpeng Zhao, Di Wu, Jun Wang.* ISCA 2024.
+57. [**Loki: Low-Rank Keys for Efficient Sparse Attention.**](https://arxiv.org/abs/2406.02542) *Prajwal Singhania, Siddharth Singh, Shwai He, Soheil Feizi, Abhinav Bhatele.* Arxiv 2024.
 
-58. [**CORM: Cache Optimization with Recent Message for Large Language Model Inference.**](https://arxiv.org/abs/2404.15949) *Jincheng Dai, Zhuowei Huang, Haiyun Jiang, Chen Chen, Deng Cai, Wei Bi, Shuming Shi.* Arxiv 2024.
+58. [**ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching.**](https://arxiv.org/abs/2403.17312) *Youpeng Zhao, Di Wu, Jun Wang.* ISCA 2024.
 
-59. [**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads.**](https://www.arxiv.org/abs/2407.15891) *Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Shikuan Hong, Yiwu Yao, Gongyi Wang.* Arxiv 2024.
+59. [**CORM: Cache Optimization with Recent Message for Large Language Model Inference.**](https://arxiv.org/abs/2404.15949) *Jincheng Dai, Zhuowei Huang, Haiyun Jiang, Chen Chen, Deng Cai, Wei Bi, Shuming Shi.* Arxiv 2024.
 
-60. [**LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.**](https://arxiv.org/abs/2407.14057) *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi.* Arxiv 2024.
+60. [**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads.**](https://www.arxiv.org/abs/2407.15891) *Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Shikuan Hong, Yiwu Yao, Gongyi Wang.* Arxiv 2024.
 
-61. [**Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope.**](https://www.arxiv.org/abs/2407.15176) *Xiaoran Liu, Qipeng Guo, Yuerong Song, Zhigeng Liu, Kai Lv, Hang Yan, Linlin Li, Qun Liu, Xipeng Qiu.* Arxiv 2024.
+61. [**LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.**](https://arxiv.org/abs/2407.14057) *Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi.* Arxiv 2024.
 
-62. [**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference.**](https://arxiv.org/abs/2403.09636) *Piotr Nawrot, Adrian Łańcucki, Marcin Chochowski, David Tarjan, Edoardo M. Ponti.* ICML 2024.
+62. [**Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope.**](https://www.arxiv.org/abs/2407.15176) *Xiaoran Liu, Qipeng Guo, Yuerong Song, Zhigeng Liu, Kai Lv, Hang Yan, Linlin Li, Qun Liu, Xipeng Qiu.* Arxiv 2024.
 
-63. [**Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers.**](https://arxiv.org/abs/2305.15805) *Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann.* NeurIPS 2023.
+63. [**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference.**](https://arxiv.org/abs/2403.09636) *Piotr Nawrot, Adrian Łańcucki, Marcin Chochowski, David Tarjan, Edoardo M. Ponti.* ICML 2024.
 
-64. [**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval.**](https://arxiv.org/abs/2409.10516) *Di Liu, Meng Chen, Baotong Lu, Huiqiang Jiang, Zhenhua Han, Qianxi Zhang, Qi Chen, Chengruidong Zhang, Bailu Ding, Kai Zhang, Chen Chen, Fan Yang, Yuqing Yang, Lili Qiu.* Arxiv 2024.
+64. [**Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers.**](https://arxiv.org/abs/2305.15805) *Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann.* NeurIPS 2023.
 
-65. [**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models.**](https://www.arxiv.org/abs/2409.11057) *Bo Lv, Quan Zhou, Xuanang Ding, Yan Wang, Zeming Ma.* Arxiv 2024.
+65. [**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval.**](https://arxiv.org/abs/2409.10516) *Di Liu, Meng Chen, Baotong Lu, Huiqiang Jiang, Zhenhua Han, Qianxi Zhang, Qi Chen, Chengruidong Zhang, Bailu Ding, Kai Zhang, Chen Chen, Fan Yang, Yuqing Yang, Lili Qiu.* Arxiv 2024.
 
-66. [**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs.**](https://www.arxiv.org/abs/2409.12490) *Junlin Lv, Yuan Feng, Xike Xie, Xin Jia, Qirong Peng, Guiming Xie.* Arxiv 2024.
+66. [**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models.**](https://www.arxiv.org/abs/2409.11057) *Bo Lv, Quan Zhou, Xuanang Ding, Yan Wang, Zeming Ma.* Arxiv 2024.
 
-67. [**Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction.**](https://arxiv.org/abs/2409.17422) *Zhenmei Shi, Yifei Ming, Xuan-Phi Nguyen, Yingyu Liang, Shafiq Joty.* Arxiv 2024.
+67. [**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs.**](https://www.arxiv.org/abs/2409.12490) *Junlin Lv, Yuan Feng, Xike Xie, Xin Jia, Qirong Peng, Guiming Xie.* Arxiv 2024.
 
-68. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs.**](https://arxiv.org/abs/2410.01518) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* EMNLP 2024.
+68. [**Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction.**](https://arxiv.org/abs/2409.17422) *Zhenmei Shi, Yifei Ming, Xuan-Phi Nguyen, Yingyu Liang, Shafiq Joty.* Arxiv 2024.
 
-69. [**In-context KV-Cache Eviction for LLMs via Attention-Gate.**](https://arxiv.org/abs/2410.12876) *Zihao Zeng, Bokai Lin, Tianqi Hou, Hao Zhang, Zhijie Deng.* Arxiv 2024.
+69. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs.**](https://arxiv.org/abs/2410.01518) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* EMNLP 2024.
 
-70. [**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection.**](https://arxiv.org/abs/2411.02886) *Wei Wu, Zhuoshi Pan, Chao Wang, Liyi Chen, Yunchu Bai, Kun Fu, Zheng Wang, Hui Xiong.* Arxiv 2024.
+70. [**In-context KV-Cache Eviction for LLMs via Attention-Gate.**](https://arxiv.org/abs/2410.12876) *Zihao Zeng, Bokai Lin, Tianqi Hou, Hao Zhang, Zhijie Deng.* Arxiv 2024.
 
-71. [**Recycled Attention: Efficient inference for long-context language models.**](https://arxiv.org/abs/2411.05787) *Fangyuan Xu, Tanya Goyal, Eunsol Choi.* Arxiv 2024.
+71. [**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection.**](https://arxiv.org/abs/2411.02886) *Wei Wu, Zhuoshi Pan, Chao Wang, Liyi Chen, Yunchu Bai, Kun Fu, Zheng Wang, Hui Xiong.* Arxiv 2024.
 
-72. [**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration.**](https://arxiv.org/abs/2410.23317) *Dezhan Tu, Danylo Vashchilenko, Yuzhe Lu, Panpan Xu.* Arxiv 2024.
+72. [**Recycled Attention: Efficient inference for long-context language models.**](https://arxiv.org/abs/2411.05787) *Fangyuan Xu, Tanya Goyal, Eunsol Choi.* Arxiv 2024.
 
-73. [**Squeezed Attention: Accelerating Long Context Length LLM Inference.**](https://arxiv.org/abs/2411.09688) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Monishwaran Maheswaran, June Paik, Michael W. Mahoney, Kurt Keutzer, Amir Gholami.* Arxiv 2024.
+73. [**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration.**](https://arxiv.org/abs/2410.23317) *Dezhan Tu, Danylo Vashchilenko, Yuzhe Lu, Panpan Xu.* Arxiv 2024.
 
-74. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
+74. [**Squeezed Attention: Accelerating Long Context Length LLM Inference.**](https://arxiv.org/abs/2411.09688) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Monishwaran Maheswaran, June Paik, Michael W. Mahoney, Kurt Keutzer, Amir Gholami.* Arxiv 2024.
 
-75. [**Unifying KV Cache Compression for Large Language Models with LeanKV.**](https://arxiv.org/abs/2412.03131) *Yanqi Zhang, Yuwei Hu, Runyuan Zhao, John C.S. Lui, Haibo Chen.* Arxiv 2024.
+75. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
 
-76. [**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs.**](https://arxiv.org/abs/2412.14838) *Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding.* Arxiv 2024.
+76. [**Unifying KV Cache Compression for Large Language Models with LeanKV.**](https://arxiv.org/abs/2412.03131) *Yanqi Zhang, Yuwei Hu, Runyuan Zhao, John C.S. Lui, Haibo Chen.* Arxiv 2024.
 
-77. [**HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing.**](https://arxiv.org/abs/2412.16187) *Minghui Liu, Tahseen Rabbani, Tony O'Halloran, Ananth Sankaralingam, Mary-Anne Hartley, Brian Gravelle, Furong Huang, Cornelia Fermüller, Yiannis Aloimonos.* Arxiv 2024.
+77. [**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs.**](https://arxiv.org/abs/2412.14838) *Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding.* Arxiv 2024.
 
-78. [**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache.**](https://arxiv.org/abs/2411.18077) *Akshat Sharma, Hangliang Ding, Jianping Li, Neel Dani, Minjia Zhang.* Arxiv 2025.
+78. [**HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing.**](https://arxiv.org/abs/2412.16187) *Minghui Liu, Tahseen Rabbani, Tony O'Halloran, Ananth Sankaralingam, Mary-Anne Hartley, Brian Gravelle, Furong Huang, Cornelia Fermüller, Yiannis Aloimonos.* Arxiv 2024.
 
-79. [**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2502.00299) *Xiang Liu, Zhenheng Tang, Peijie Dong, Zeyu Li, Bo Li, Xuming Hu, Xiaowen Chu.* Arxiv 2025.
+79. [**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache.**](https://arxiv.org/abs/2411.18077) *Akshat Sharma, Hangliang Ding, Jianping Li, Neel Dani, Minjia Zhang.* Arxiv 2025.
 
-80. [**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression.**](https://www.arxiv.org/abs/2502.14051) *Payman Behnam, Yaosheng Fu, Ritchie Zhao, Po-An Tsai, Zhiding Yu, Alexey Tumanov.* Arxiv 2025.
+80. [**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2502.00299) *Xiang Liu, Zhenheng Tang, Peijie Dong, Zeyu Li, Bo Li, Xuming Hu, Xiaowen Chu.* Arxiv 2025.
 
-81. [**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance.**](https://arxiv.org/abs/2502.16886) *Xuanfan Ni, Liyan Xu, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li.* Arxiv 2025.
+81. [**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression.**](https://www.arxiv.org/abs/2502.14051) *Payman Behnam, Yaosheng Fu, Ritchie Zhao, Po-An Tsai, Zhiding Yu, Alexey Tumanov.* Arxiv 2025.
 
-82. [**KVCrush: Key value cache size-reduction using similarity in head-behaviour.**](https://arxiv.org/abs/2503.00022) *Gopi Krishna Jha, Sameh Gobriel, Liubov Talamanova, Alexander Kozlov, Nilesh Jain.* Arxiv 2025.
+82. [**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance.**](https://arxiv.org/abs/2502.16886) *Xuanfan Ni, Liyan Xu, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li.* Arxiv 2025.
 
-83. [**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference.**](https://arxiv.org/abs/2503.08879) *Guangtao Wang, Shubhangi Upasani, Chen Wu, Darshan Gandhi, Jonathan Li, Changran Hu, Bo Li, Urmish Thakker.* ICLR 2025.
+83. [**KVCrush: Key value cache size-reduction using similarity in head-behaviour.**](https://arxiv.org/abs/2503.00022) *Gopi Krishna Jha, Sameh Gobriel, Liubov Talamanova, Alexander Kozlov, Nilesh Jain.* Arxiv 2025.
 
-84. [**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs.**](https://arxiv.org/abs/2503.16163) *Shibo Jie, Yehui Tang, Kai Han, Zhi-Hong Deng, Jing Han.* Arxiv 2025.
+84. [**LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference.**](https://arxiv.org/abs/2503.08879) *Guangtao Wang, Shubhangi Upasani, Chen Wu, Darshan Gandhi, Jonathan Li, Changran Hu, Bo Li, Urmish Thakker.* ICLR 2025.
 
-85. [**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching.**](https://arxiv.org/abs/2504.00970) *Yuxuan Zhu, Ali Falahati, David H. Yang, Mohammad Mohammadi Amiri.* Arxiv 2025.
+85. [**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs.**](https://arxiv.org/abs/2503.16163) *Shibo Jie, Yehui Tang, Kai Han, Zhi-Hong Deng, Jing Han.* Arxiv 2025.
 
-86. [**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs.**](https://arxiv.org/abs/2504.17768) *Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti.* Arxiv 2025.
+86. [**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching.**](https://arxiv.org/abs/2504.00970) *Yuxuan Zhu, Ali Falahati, David H. Yang, Mohammad Mohammadi Amiri.* Arxiv 2025.
 
-87. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) *Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin.* Arxiv 2025.
+87. [**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs.**](https://arxiv.org/abs/2504.17768) *Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti.* Arxiv 2025.
 
-88. [**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs.**](https://www.arxiv.org/abs/2506.05410) *Wanyun Cui, Mingwei Xu.* Arxiv 2025.
+88. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) *Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin.* Arxiv 2025.
 
-89. [**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models.**](https://www.arxiv.org/abs/2506.03762) *Yifeng Gu, Zicong Jiang, Jianxiu Jin, Kailing Guo, Ziyang Zhang, Xiangmin Xu.* Arxiv 2025.
+89. [**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs.**](https://www.arxiv.org/abs/2506.05410) *Wanyun Cui, Mingwei Xu.* Arxiv 2025.
 
-90. [**Inference-Time Hyper-Scaling with KV Cache Compression.**](https://arxiv.org/abs/2506.05345) *Adrian Łańcucki, Konrad Staniszewski, Piotr Nawrot, Edoardo M. Ponti.* Arxiv 2025.
+90. [**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models.**](https://www.arxiv.org/abs/2506.03762) *Yifeng Gu, Zicong Jiang, Jianxiu Jin, Kailing Guo, Ziyang Zhang, Xiangmin Xu.* Arxiv 2025.
 
-91. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745v1) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* Arxiv 2025.
+91. [**Inference-Time Hyper-Scaling with KV Cache Compression.**](https://arxiv.org/abs/2506.05345) *Adrian Łańcucki, Konrad Staniszewski, Piotr Nawrot, Edoardo M. Ponti.* Arxiv 2025.
 
-92. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) *Vivek Chari, Benjamin Van Durme.* Arxiv 2025.
+92. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745v1) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* Arxiv 2025.
 
-93. [**EvolKV: Evolutionary KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2509.08315) *Bohan Yu, Yekun Chai.* Arxiv 2025.
+93. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) *Vivek Chari, Benjamin Van Durme.* Arxiv 2025.
 
-94. [**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments.**](https://arxiv.org/abs/2504.15364) *Junyoung Park, Dalton Jones, Matthew J Morse, Raghavv Goel, Mingu Lee, Chris Lott.* NeurIPS 2025.
+94. [**EvolKV: Evolutionary KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2509.08315) *Bohan Yu, Yekun Chai.* Arxiv 2025.
 
-95. [**CAOTE: KV Cache Selection for LLMs via Attention Output Error-Based Token Eviction.**](https://arxiv.org/abs/2504.14051) *Raghavv Goel, Junyoung Park, Mukul Gagrani, Dalton Jones, Matthew Morse, Harper Langston, Mingu Lee, Chris Lott.* Arxiv 2025.
+95. [**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments.**](https://arxiv.org/abs/2504.15364) *Junyoung Park, Dalton Jones, Matthew J Morse, Raghavv Goel, Mingu Lee, Chris Lott.* NeurIPS 2025.
+
+96. [**CAOTE: KV Cache Selection for LLMs via Attention Output Error-Based Token Eviction.**](https://arxiv.org/abs/2504.14051) *Raghavv Goel, Junyoung Park, Mukul Gagrani, Dalton Jones, Matthew Morse, Harper Langston, Mingu Lee, Chris Lott.* Arxiv 2025.
 
 ### 2️⃣ Merging
 
-1. [**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.**](https://arxiv.org/abs/2405.16444) *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang.* EuroSys 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 11,163 | 🐛 522 | 🌐 Python | 📅 2026-08-16
+1. [**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.**](https://arxiv.org/abs/2405.16444) *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang.* EuroSys 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 11,179 | 🐛 537 | 🌐 Python | 📅 2026-08-17
 
 2. [**Token Merging: Your ViT But Faster.**](https://arxiv.org/abs/2210.09461) *Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman.* ICLR 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/ToMe)](https://github.com/facebookresearch/ToMe) ⚠️ Archived
 
@@ -282,7 +288,7 @@ This repository is constantly updating 🤗 ...
 
 ### 4️⃣ Low-Rank
 
-1. [**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model.**](https://arxiv.org/abs/2405.04434) *DeepSeek-AI.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2)](https://github.com/deepseek-ai/DeepSeek-V2) ⭐ 5,032 | 🐛 89 | 📅 2024-09-25
+1. [**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model.**](https://arxiv.org/abs/2405.04434) *DeepSeek-AI.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V2)](https://github.com/deepseek-ai/DeepSeek-V2) ⭐ 5,031 | 🐛 89 | 📅 2024-09-25
 
 2. [**Palu: Compressing KV-Cache with Low-Rank Projection.**](https://arxiv.org/abs/2407.21118) *Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu.* ICLR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/Palu)](https://github.com/shadowpa0327/Palu) ⭐ 161 | 🐛 7 | 🌐 Python | 📅 2025-02-20
 
@@ -304,7 +310,7 @@ This repository is constantly updating 🤗 ...
 
 ### 5️⃣ Quantization
 
-1. [**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.**](https://arxiv.org/abs/2504.19874) *Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni.* ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/0xSero/turboquant)](https://github.com/0xSero/turboquant) ⭐ 1,721 | 🐛 12 | 🌐 Python | 📅 2026-03-27
+1. [**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.**](https://arxiv.org/abs/2504.19874) *Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni.* ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/0xSero/turboquant)](https://github.com/0xSero/turboquant) ⭐ 1,720 | 🐛 12 | 🌐 Python | 📅 2026-03-27
 
 2. [**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.**](https://arxiv.org/abs/2401.18079) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SqueezeAILab/KVQuant)](https://github.com/SqueezeAILab/KVQuant) ⭐ 432 | 🐛 18 | 🌐 Python | 📅 2024-08-13
 
@@ -343,11 +349,11 @@ This repository is constantly updating 🤗 ...
 
 ### 6️⃣ Prompt Compression
 
-1. [**LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.**](https://arxiv.org/abs/2310.05736) *Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* EMNLP 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,566 | 🐛 119 | 🌐 Python | 📅 2026-04-08
+1. [**LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.**](https://arxiv.org/abs/2310.05736) *Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* EMNLP 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,571 | 🐛 119 | 🌐 Python | 📅 2026-04-08
 
-2. [**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression.**](https://arxiv.org/abs/2403.12968) *Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,566 | 🐛 119 | 🌐 Python | 📅 2026-04-08
+2. [**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression.**](https://arxiv.org/abs/2403.12968) *Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,571 | 🐛 119 | 🌐 Python | 📅 2026-04-08
 
-3. [**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.**](https://arxiv.org/abs/2310.06839) *Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,566 | 🐛 119 | 🌐 Python | 📅 2026-04-08
+3. [**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.**](https://arxiv.org/abs/2310.06839) *Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua) ⭐ 6,571 | 🐛 119 | 🌐 Python | 📅 2026-04-08
 
 4. [**TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning.**](https://arxiv.org/abs/2409.13035) *Shivam Shandilya, Menglin Xia, Supriyo Ghosh, Huiqiang Jiang, Jue Zhang, Qianhui Wu, Victor Rühle.* Arxiv 2024.
 
@@ -383,4 +389,4 @@ This repository is constantly updating 🤗 ...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
