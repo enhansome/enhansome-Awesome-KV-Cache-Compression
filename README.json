@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T05:18:53Z",
+            "last_commit": "2026-08-19T03:30:59Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11194
+            "stars": 11208
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2024-07-11T08:14:43Z",
             "owner": "mit-han-lab",
             "repo": "streaming-llm",
-            "stars": 7264
+            "stars": 7262
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2025-02-10T18:01:39Z",
             "owner": "mit-han-lab",
             "repo": "duo-attention",
-            "stars": 540
+            "stars": 539
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2025-07-10T21:54:27Z",
             "owner": "FasterDecoding",
             "repo": "SnapKV",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-07-30T11:23:52Z",
             "owner": "Gumpest",
             "repo": "SparseVLMs",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -270,7 +270,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-22T02:05:54Z",
+            "last_commit": "2026-08-18T11:52:13Z",
             "owner": "infly-ai",
             "repo": "INF-MLLM",
             "stars": 247
@@ -315,7 +315,7 @@
             "last_commit": "2025-02-15T04:48:08Z",
             "owner": "FasterDecoding",
             "repo": "TEAL",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2025-06-29T07:14:46Z",
             "owner": "Theia-4869",
             "repo": "FasterVLM",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-10T00:02:26Z",
             "owner": "cvsp-lab",
             "repo": "RestoreKV",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -822,10 +822,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T05:18:53Z",
+            "last_commit": "2026-08-19T03:30:59Z",
             "owner": "LMCache",
             "repo": "LMCache",
-            "stars": 11194
+            "stars": 11208
           }
         },
         {
@@ -943,7 +943,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22192
           }
         },
         {
@@ -1033,7 +1033,7 @@
             "last_commit": "2024-09-25T10:23:55Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V2",
-            "stars": 5031
+            "stars": 5034
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2026-03-27T22:30:40Z",
             "owner": "0xSero",
             "repo": "turboquant",
-            "stars": 1722
+            "stars": 1724
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6574
+            "stars": 6579
           }
         },
         {
@@ -1269,7 +1269,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6574
+            "stars": 6579
           }
         },
         {
@@ -1283,7 +1283,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6574
+            "stars": 6579
           }
         }
       ],
@@ -1303,7 +1303,7 @@
             "last_commit": "2026-05-30T10:38:26Z",
             "owner": "NVlabs",
             "repo": "Fast-dLLM",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -1415,7 +1415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:50:37.954Z",
+    "last_updated": "2026-08-19T05:52:15.361Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
