@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "🎉 [2024-07-23] Project Beginning 🥳",
-      "items": [],
-      "title": "📢 News"
-    },
-    {
-      "description": "This repository is constantly updating 🤗 ...",
-      "items": [],
-      "title": "📜 Notice"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906962208,
             "language": null,
             "last_commit": "2026-07-16T03:24:43Z",
             "owner": "TreeAI-Lab",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828833724,
             "language": null,
             "last_commit": "2024-10-09T15:51:23Z",
             "owner": "zcli-charlie",
@@ -45,1300 +37,1397 @@
       "title": "📷 Survey"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.",
+              "description": "Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang. ACM SIGCOMM 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807305060,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:22:41Z",
+                "owner": "LMCache",
+                "repo": "LMCache",
+                "stars": 11214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Streaming Language Models with Attention Sinks.",
+              "description": "Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis. ICLR 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698344263,
+                "language": "Python",
+                "last_commit": "2024-07-11T08:14:43Z",
+                "owner": "mit-han-lab",
+                "repo": "streaming-llm",
+                "stars": 7262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time.",
+              "description": "Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240226378,
+                "language": "Python",
+                "last_commit": "2024-08-16T02:42:22Z",
+                "owner": "PaddlePaddle",
+                "repo": "Research",
+                "stars": 1761
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.",
+              "description": "Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810707714,
+                "language": "Python",
+                "last_commit": "2026-08-13T07:35:40Z",
+                "owner": "Zefan-Cai",
+                "repo": "KVCache-Factory",
+                "stars": 1372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.",
+              "description": "Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu. NeurIPS 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804362023,
+                "language": "Python",
+                "last_commit": "2026-04-08T08:04:38Z",
+                "owner": "microsoft",
+                "repo": "MInference",
+                "stars": 1226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration.",
+              "description": "Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992765151,
+                "language": "Python",
+                "last_commit": "2026-07-20T04:54:05Z",
+                "owner": "Zefan-Cai",
+                "repo": "R-KV",
+                "stars": 1208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention.",
+              "description": "Shang Yang, Junxian Guo, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han. MLSys 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796839092,
+                "language": "C++",
+                "last_commit": "2025-03-06T03:22:14Z",
+                "owner": "mit-han-lab",
+                "repo": "omniserve",
+                "stars": 853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator.",
+              "description": "Guoxuan Chen, Han Shi, Jiawei Li, Yihang Gao, Xiaozhe Ren, Yimeng Chen, Xin Jiang, Zhenguo Li, Weiyang Liu, Chao Huang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 901925992,
+                "language": "Python",
+                "last_commit": "2025-07-29T15:26:34Z",
+                "owner": "HKUDS",
+                "repo": "SepLLM",
+                "stars": 572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.",
+              "description": "Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, Junxian Guo, Shang Yang, Haotian Tang, Yao Fu, Song Han. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872740053,
+                "language": "Python",
+                "last_commit": "2025-02-10T18:01:39Z",
+                "owner": "mit-han-lab",
+                "repo": "duo-attention",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.",
+              "description": "Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen. NeurIPS 2023.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652462927,
+                "language": "Python",
+                "last_commit": "2024-08-01T19:41:25Z",
+                "owner": "FMInference",
+                "repo": "H2O",
+                "stars": 529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference.",
+              "description": "Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, Baris Kasikci, Song Han. ICML 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815507746,
+                "language": "Cuda",
+                "last_commit": "2025-07-10T21:29:37Z",
+                "owner": "mit-han-lab",
+                "repo": "Quest",
+                "stars": 402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SnapKV: LLM Knows What You are Looking for Before Generation.",
+              "description": "Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776297458,
+                "language": "Python",
+                "last_commit": "2025-07-10T21:54:27Z",
+                "owner": "FasterDecoding",
+                "repo": "SnapKV",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference.",
+              "description": "Hanshi Sun, Li-Wen Chang, Wenlei Bao, Size Zheng, Ningxin Zheng, Xin Liu, Harry Dong, Yuejie Chi, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876463366,
+                "language": "Python",
+                "last_commit": "2025-05-01T22:49:30Z",
+                "owner": "ByteDance-Seed",
+                "repo": "ShadowKV",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference.",
+              "description": "Yuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867423767,
+                "language": "Python",
+                "last_commit": "2026-07-30T11:23:52Z",
+                "owner": "Gumpest",
+                "repo": "SparseVLMs",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
+              "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876363500,
+                "language": "Python",
+                "last_commit": "2024-12-16T18:30:26Z",
+                "owner": "Infini-AI-Lab",
+                "repo": "MagicPIG",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
+              "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728096122,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:52:13Z",
+                "owner": "infly-ai",
+                "repo": "INF-MLLM",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Retrieval Head Mechanistically Explains Long-Context Factuality.",
+              "description": "Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788459169,
+                "language": "Python",
+                "last_commit": "2024-08-02T08:25:57Z",
+                "owner": "nightdessert",
+                "repo": "Retrieval_Head",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction.",
+              "description": "Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991826061,
+                "language": "Python",
+                "last_commit": "2026-02-11T05:54:19Z",
+                "owner": "snu-mllab",
+                "repo": "KVzip",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Training-Free Activation Sparsity in Large Language Models.",
+              "description": "James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848716186,
+                "language": "Python",
+                "last_commit": "2025-02-15T04:48:08Z",
+                "owner": "FasterDecoding",
+                "repo": "TEAL",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head.",
+              "description": "Isaac Rehg. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776546729,
+                "language": "Python",
+                "last_commit": "2025-02-05T04:09:38Z",
+                "owner": "IsaacRe",
+                "repo": "vllm-kvcompress",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.",
+              "description": "Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 821296943,
+                "language": "Python",
+                "last_commit": "2025-11-26T05:19:52Z",
+                "owner": "FFY0",
+                "repo": "AdaKV",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transformers are Multi-State RNNs.",
+              "description": "Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741438641,
+                "language": "Python",
+                "last_commit": "2024-10-13T13:19:49Z",
+                "owner": "schwartz-lab-NLP",
+                "repo": "TOVA",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.",
+              "description": "Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894941483,
+                "language": "Python",
+                "last_commit": "2025-06-29T07:14:46Z",
+                "owner": "Theia-4869",
+                "repo": "FasterVLM",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Post-Training Sparse Attention with Double Sparsity.",
+              "description": "Shuo Yang, Ying Sheng, Joseph E. Gonzalez, Ion Stoica, Lianmin Zheng. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844205606,
+                "language": "Python",
+                "last_commit": "2025-03-26T07:38:01Z",
+                "owner": "andy-yang-1",
+                "repo": "DoubleSparse",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification.",
+              "description": "Wenxuan Huang, Zijie Zhai, Yunhang Shen, Shaosheng Cao, Fei Zhao, Xiangfeng Xu, Zheyu Ye, Shaohui Lin. ICLR 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 835107405,
+                "language": "Python",
+                "last_commit": "2025-09-18T20:56:40Z",
+                "owner": "Osilly",
+                "repo": "dynamic_llava",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.",
+              "description": "Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 858039636,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:15:10Z",
+                "owner": "ywh187",
+                "repo": "FitPrune",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference.",
+              "description": "Siyu Ren, Kenny Q. Zhu. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743089011,
+                "language": "Python",
+                "last_commit": "2024-02-13T12:04:32Z",
+                "owner": "DRSY",
+                "repo": "EasyKV",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.",
+              "description": "Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771884120,
+                "language": "Python",
+                "last_commit": "2024-03-26T23:34:19Z",
+                "owner": "d-matrix-ai",
+                "repo": "keyformer-llm",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention.",
+              "description": "Lijie Yang, Zhihao Zhang, Zhuofu Chen, Zikun Li, Zhihao Jia. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 829641544,
+                "language": "Python",
+                "last_commit": "2025-08-06T22:25:17Z",
+                "owner": "DerrickYLJ",
+                "repo": "TidalDecode",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction.",
+              "description": "Xuan Zhang, Cunxiao Du, Chao Du, Tianyu Pang, Wei Gao, Min Lin. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872805724,
+                "language": "Python",
+                "last_commit": "2024-10-18T04:08:29Z",
+                "owner": "sail-sg",
+                "repo": "SimLayerKV",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction.",
+              "description": "Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, Yun Liang. NeurIPS 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865025817,
+                "language": "Python",
+                "last_commit": "2024-12-17T17:51:28Z",
+                "owner": "pku-liang",
+                "repo": "ArkVale",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference.",
+              "description": "Harry Dong, Xinyu Yang, Zhenyu Zhang, Zhangyang Wang, Yuejie Chi, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749145076,
+                "language": "Python",
+                "last_commit": "2024-05-13T01:42:52Z",
+                "owner": "hdong920",
+                "repo": "LESS",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs.",
+              "description": "Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005104085,
+                "language": "Python",
+                "last_commit": "2025-07-29T19:20:14Z",
+                "owner": "princeton-pli",
+                "repo": "PruLong",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference.",
+              "description": "Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813408285,
+                "language": "Python",
+                "last_commit": "2024-11-25T10:11:30Z",
+                "owner": "mutonix",
+                "repo": "pyramidinfer",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning.",
+              "description": "Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882108549,
+                "language": "Python",
+                "last_commit": "2025-03-10T23:14:26Z",
+                "owner": "FYYFU",
+                "repo": "HeadKV",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences.",
+              "description": "Ziran Qin, Yuchen Cao, Mingbao Lin, Wen Hu, Shixuan Fan, Ke Cheng, Weiyao Lin, Jianguo Li. ICLR 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939823990,
+                "language": "Python",
+                "last_commit": "2025-03-17T06:17:40Z",
+                "owner": "antgroup",
+                "repo": "cakekv",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation.",
+              "description": "Jialong Wu, Zhenglin Wang, Linhai Zhang, Yilong Lai, Yulan He, Deyu Zhou. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900747828,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-28T11:15:52Z",
+                "owner": "Linking-ai",
+                "repo": "SCOPE",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation.",
+              "description": "Dongwon Jo, Jiwon Song, Yulhwa Kim, Jae-Joon Kim. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 926352351,
+                "language": "Python",
+                "last_commit": "2026-04-14T04:54:59Z",
+                "owner": "dongwonjo",
+                "repo": "FastKV",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sirius: Contextual Sparsity with Correction for Efficient LLMs.",
+              "description": "Yang Zhou, Zhuoming Chen, Zhaozhuo Xu, Victoria Lin, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849553688,
+                "language": "Python",
+                "last_commit": "2024-09-10T20:15:07Z",
+                "owner": "Infini-AI-Lab",
+                "repo": "Sirius",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference.",
+              "description": "Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang. NAACL 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 920932939,
+                "language": "Python",
+                "last_commit": "2025-06-19T15:46:56Z",
+                "owner": "AIoT-MLSys-Lab",
+                "repo": "MEDA",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression.",
+              "description": "Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini. EMNLP 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882431947,
+                "language": "Python",
+                "last_commit": "2024-12-13T15:00:55Z",
+                "owner": "alessiodevoto",
+                "repo": "l2compress",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LoCoCo: Dropping In Convolutions for Long Context Compression.",
+              "description": "Ruisi Cai, Yuandong Tian, Zhangyang Wang, Beidi Chen. ICML 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812105783,
+                "language": "Python",
+                "last_commit": "2024-09-07T08:00:30Z",
+                "owner": "VITA-Group",
+                "repo": "LoCoCo",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models.",
+              "description": "Dachuan Shi, Yonggan Fu, Xiangchi Yuan, Zhongzhi Yu, Haoran You, Sixu Li, Xin Dong, Jan Kautz, Pavlo Molchanov, Yingyan (Celine)Lin. ICML 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996241998,
+                "language": "Python",
+                "last_commit": "2025-11-04T17:50:17Z",
+                "owner": "GATECH-EIC",
+                "repo": "LaCache",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters.",
+              "description": "Zhiyu Guo, Hidetaka Kamigaito, Taro Watanabe. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865686390,
+                "language": "Python",
+                "last_commit": "2024-11-05T13:29:20Z",
+                "owner": "guozhiyu",
+                "repo": "vatp",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads.",
+              "description": "Yuxiang Huang, Binhang Yuan, Xu Han, Chaojun Xiao, Zhiyuan Liu. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863033270,
+                "language": "Python",
+                "last_commit": "2024-10-03T01:39:43Z",
+                "owner": "huangyuxiang03",
+                "repo": "Locret",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs.",
+              "description": "Ravi Ghadia, Avinash Kumar, Gaurav Jain, Prashant Nair, Poulami Das. ICML 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945532239,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-18T04:05:59Z",
+                "owner": "ghadiaravi13",
+                "repo": "MorphKV",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.",
+              "description": "Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 989861731,
+                "language": "Python",
+                "last_commit": "2025-11-06T00:23:01Z",
+                "owner": "dhjoo98",
+                "repo": "mustafar",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CItruS: Chunked Instruction-aware State Eviction for Long Sequence Modeling.",
+              "description": "Yu Bai, Xiyuan Zou, Heyan Huang, Sanxing Chen, Marc-Antoine Rondeau, Yang Gao, Jackie Chi Kit Cheung. EMNLP 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 860196015,
+                "language": "Python",
+                "last_commit": "2024-09-25T13:14:46Z",
+                "owner": "ybai-nlp",
+                "repo": "CItruS",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KV-Distill: Nearly Lossless Learnable Context Compression for LLMs.",
+              "description": "Vivek Chari, Guanghui Qin, Benjamin Van Durme. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942137664,
+                "language": null,
+                "last_commit": "2025-03-03T16:29:42Z",
+                "owner": "vnchari",
+                "repo": "kv-distill",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference.",
+              "description": "Junqi Zhao, Zhijin Fang, Shu Li, Shaohui Yang, Shichao He. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854431366,
+                "language": "Python",
+                "last_commit": "2024-10-31T01:33:32Z",
+                "owner": "JunqiZhao888",
+                "repo": "buzz-llm",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.",
+              "description": "Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054807583,
+                "language": "Python",
+                "last_commit": "2025-09-17T06:57:20Z",
+                "owner": "MGDDestiny",
+                "repo": "Lava",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.",
+              "description": "Changwoo Baek, Seungjun Shin, Kyeongbo Kong. Arxiv 2026.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1320180300,
+                "language": null,
+                "last_commit": "2026-08-10T00:02:26Z",
+                "owner": "cvsp-lab",
+                "repo": "RestoreKV",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Sparse Attention needs Adaptive Token Release.",
+              "description": "Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810674958,
+                "language": null,
+                "last_commit": "2024-06-05T06:59:54Z",
+                "owner": "WHUIR",
+                "repo": "ADORE",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.",
+              "description": "Hyun Rae Jo, Dong Kun Shin. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951733920,
+                "language": "Python",
+                "last_commit": "2026-04-20T06:01:19Z",
+                "owner": "Dirac-Notation",
+                "repo": "A2SF",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "1️⃣ Pruning / Evicting / Sparse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.",
+              "description": "Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang. EuroSys 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807305060,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:22:41Z",
+                "owner": "LMCache",
+                "repo": "LMCache",
+                "stars": 11214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Token Merging: Your ViT But Faster.",
+              "description": "Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman. ICLR 2023.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 553339916,
+                "language": "Python",
+                "last_commit": "2024-06-17T11:22:47Z",
+                "owner": "facebookresearch",
+                "repo": "ToMe",
+                "stars": 1207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference.",
+              "description": "Zhongwei Wan, Ziang Wu, Che Liu, Jinfa Huang, Zhihong Zhu, Peng Jin, Longyue Wang, Li Yuan. EMNLP 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820255233,
+                "language": "Python",
+                "last_commit": "2024-11-09T23:03:30Z",
+                "owner": "SUSTechBruce",
+                "repo": "LOOK-M",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning.",
+              "description": "Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898238616,
+                "language": "Python",
+                "last_commit": "2025-10-09T03:41:02Z",
+                "owner": "LaVi-Lab",
+                "repo": "AIM",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compressed Context Memory for Online Language Model Interaction.",
+              "description": "Jang-Hyun Kim, Junyoung Yeom, Sangdoo Yun, Hyun Oh Song. ICLR 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727120312,
+                "language": "Python",
+                "last_commit": "2024-04-18T14:52:11Z",
+                "owner": "snu-mllab",
+                "repo": "Context-Memory",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CaM: Cache Merging for Memory-efficient LLMs Inference.",
+              "description": "Yuxin Zhang, Yuxuan Du, Gen Luo, Yunshan Zhong, Zhenyu Zhang, Shiwei Liu, Rongrong Ji. ICML 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804107829,
+                "language": "Python",
+                "last_commit": "2024-06-19T05:17:31Z",
+                "owner": "zyxxmu",
+                "repo": "cam",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs.",
+              "description": "Woomin Song, Seunghyuk Oh, Sangwoo Mo, Jaehyung Kim, Sukmin Yun, Jung-Woo Ha, Jinwoo Shin. ICLR 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771943964,
+                "language": "Python",
+                "last_commit": "2024-08-06T17:55:24Z",
+                "owner": "alinlab",
+                "repo": "HOMER",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.",
+              "description": "Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang. ICLR 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816862198,
+                "language": "Python",
+                "last_commit": "2025-07-07T02:53:31Z",
+                "owner": "AIoT-MLSys-Lab",
+                "repo": "D2O",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2️⃣ Merging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "You Only Cache Once: Decoder-Decoder Architectures for Language Models.",
+              "description": "Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei. NeurIPS 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198350484,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation.",
+              "description": "Aurick Qiao, Zhewei Yao, Samyam Rajbhandari, Yuxiong He. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 914995486,
+                "language": "Python",
+                "last_commit": "2026-06-26T20:32:27Z",
+                "owner": "snowflakedb",
+                "repo": "ArcticTraining",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Layer-Condensed KV Cache for Efficient Inference of Large Language Models.",
+              "description": "Haoyi Wu, Kewei Tu. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769411663,
+                "language": "Python",
+                "last_commit": "2025-04-07T02:03:42Z",
+                "owner": "whyNLP",
+                "repo": "LCKV",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.",
+              "description": "Zayd Muhammad Kawakibi Zuhri, Muhammad Farid Adilazuarda, Ayu Purwarianti, Alham Fikri Aji. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735295512,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-14T02:27:56Z",
+                "owner": "zaydzuhri",
+                "repo": "pythia-mlkv",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing.",
+              "description": "Yifei Yang, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877753761,
+                "language": "Python",
+                "last_commit": "2024-10-24T08:20:55Z",
+                "owner": "yangyifei729",
+                "repo": "KVSharer",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.",
+              "description": "Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 853244326,
+                "language": "JavaScript",
+                "last_commit": "2024-09-07T02:57:19Z",
+                "owner": "AkideLiu",
+                "repo": "MiniCache",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3️⃣ Cross-Layer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model.",
+              "description": "DeepSeek-AI. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790044051,
+                "language": null,
+                "last_commit": "2024-09-25T10:23:55Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-V2",
+                "stars": 5034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Palu: Compressing KV-Cache with Low-Rank Projection.",
+              "description": "Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu. ICLR 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822939540,
+                "language": "Python",
+                "last_commit": "2025-02-20T03:25:09Z",
+                "owner": "shadowpa0327",
+                "repo": "Palu",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThinK: Thinner Key Cache by Query-Driven Pruning.",
+              "description": "Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 869325162,
+                "language": "Python",
+                "last_commit": "2026-06-02T18:54:48Z",
+                "owner": "SalesforceAIResearch",
+                "repo": "ThinK",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tensor Product Attention Is All You Need.",
+              "description": "Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059800918,
+                "language": "Python",
+                "last_commit": "2026-01-14T22:03:29Z",
+                "owner": "tensorgi",
+                "repo": "T6",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "4️⃣ Low-Rank"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.",
+              "description": "Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni. ICLR 2026.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192031521,
+                "language": "Python",
+                "last_commit": "2026-03-27T22:30:40Z",
+                "owner": "0xSero",
+                "repo": "turboquant",
+                "stars": 1724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.",
+              "description": "Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami. NeurIPS 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750973875,
+                "language": "Python",
+                "last_commit": "2024-08-13T11:19:28Z",
+                "owner": "SqueezeAILab",
+                "repo": "KVQuant",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache.",
+              "description": "Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu. ICML 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751957145,
+                "language": "Python",
+                "last_commit": "2025-11-20T20:34:33Z",
+                "owner": "jy-yuan",
+                "repo": "KIVI",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM.",
+              "description": "Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 712704426,
+                "language": "Python",
+                "last_commit": "2024-07-12T17:21:28Z",
+                "owner": "opengear-project",
+                "repo": "GEAR",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache.",
+              "description": "Dayou Du, Shijie Cao, Jianyi Cheng, Ting Cao, Mao Yang. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951536355,
+                "language": "C++",
+                "last_commit": "2026-05-14T10:23:13Z",
+                "owner": "OpenBitSys",
+                "repo": "BitDecoding",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QAQ: Quality Adaptive Quantization for LLM KV Cache.",
+              "description": "Shichen Dong, Wen Cheng, Jiayu Qin, Wei Wang. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731645310,
+                "language": "Python",
+                "last_commit": "2024-03-27T05:06:12Z",
+                "owner": "ClubieDong",
+                "repo": "QAQ-KVCacheQuantization",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PolarQuant: Quantizing KV Caches with Polar Transformation.",
+              "description": "Insu Han, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh. NeurIPS 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 986281194,
+                "language": "Python",
+                "last_commit": "2026-04-02T02:34:54Z",
+                "owner": "ericshwu",
+                "repo": "PolarQuant",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference.",
+              "description": "Xing Li, Zeyu Xing, Yiming Li, Linping Qu, Hui-Ling Zhen, Wulong Liu, Yiwu Yao, Sinno Jialin Pan, Mingxuan Yuan. ICML 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 881250732,
+                "language": "Python",
+                "last_commit": "2026-01-27T10:24:10Z",
+                "owner": "cmd2001",
+                "repo": "KVTuner",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.",
+              "description": "Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945477317,
+                "language": "Python",
+                "last_commit": "2025-03-26T13:09:46Z",
+                "owner": "KD-TAO",
+                "repo": "VidKV",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models.",
+              "description": "Haojie Duanmu, Zhihang Yuan, Xiuhong Li, Jiangfei Duan, Xingcheng Zhang, Dahua Lin. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797639685,
+                "language": "Python",
+                "last_commit": "2024-10-05T07:26:45Z",
+                "owner": "cat538",
+                "repo": "SKVQ",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization.",
+              "description": "Dingyu Yao, Bowen Shen, Zheng Lin, Wei Liu, Jian Luan, Bin Wang, Weiping Wang. ACL 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968519574,
+                "language": "Python",
+                "last_commit": "2025-07-25T07:12:31Z",
+                "owner": "ydyhello",
+                "repo": "TailorKV",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "5️⃣ Quantization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.",
+              "description": "Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu. EMNLP 2023.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663368311,
+                "language": "Python",
+                "last_commit": "2026-04-08T18:59:13Z",
+                "owner": "microsoft",
+                "repo": "LLMLingua",
+                "stars": 6582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression.",
+              "description": "Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663368311,
+                "language": "Python",
+                "last_commit": "2026-04-08T18:59:13Z",
+                "owner": "microsoft",
+                "repo": "LLMLingua",
+                "stars": 6582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.",
+              "description": "Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu. ACL 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663368311,
+                "language": "Python",
+                "last_commit": "2026-04-08T18:59:13Z",
+                "owner": "microsoft",
+                "repo": "LLMLingua",
+                "stars": 6582
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6️⃣ Prompt Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding.",
+              "description": "Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991387454,
+                "language": "Python",
+                "last_commit": "2026-05-30T10:38:26Z",
+                "owner": "NVlabs",
+                "repo": "Fast-dLLM",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching.",
+              "description": "Zhiyuan Liu, Yicun Yang, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988293592,
+                "language": "Python",
+                "last_commit": "2026-05-01T07:50:21Z",
+                "owner": "maomaocun",
+                "repo": "dLLM-cache",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dKV-Cache: The Cache for Diffusion Language Models.",
+              "description": "Xinyin Ma, Runpeng Yu, Gongfan Fang, Xinchao Wang. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 987394652,
+                "language": "Python",
+                "last_commit": "2025-05-22T02:15:46Z",
+                "owner": "horseee",
+                "repo": "dKV-Cache",
+                "stars": 135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "8️⃣ Non-Autoregressive"
+        }
+      ],
       "title": "🔍 Method"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.",
-          "description": "Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang. ACM SIGCOMM 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T03:30:59Z",
-            "owner": "LMCache",
-            "repo": "LMCache",
-            "stars": 11208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Efficient Streaming Language Models with Attention Sinks.",
-          "description": "Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis. ICLR 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-11T08:14:43Z",
-            "owner": "mit-han-lab",
-            "repo": "streaming-llm",
-            "stars": 7262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time.",
-          "description": "Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-16T02:42:22Z",
-            "owner": "PaddlePaddle",
-            "repo": "Research",
-            "stars": 1761
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.",
-          "description": "Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T07:35:40Z",
-            "owner": "Zefan-Cai",
-            "repo": "KVCache-Factory",
-            "stars": 1371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.",
-          "description": "Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu. NeurIPS 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T08:04:38Z",
-            "owner": "microsoft",
-            "repo": "MInference",
-            "stars": 1226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration.",
-          "description": "Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T04:54:05Z",
-            "owner": "Zefan-Cai",
-            "repo": "R-KV",
-            "stars": 1207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention.",
-          "description": "Shang Yang, Junxian Guo, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han. MLSys 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-03-06T03:22:14Z",
-            "owner": "mit-han-lab",
-            "repo": "omniserve",
-            "stars": 853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator.",
-          "description": "Guoxuan Chen, Han Shi, Jiawei Li, Yihang Gao, Xiaozhe Ren, Yimeng Chen, Xin Jiang, Zhenguo Li, Weiyang Liu, Chao Huang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-29T15:26:34Z",
-            "owner": "HKUDS",
-            "repo": "SepLLM",
-            "stars": 572
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.",
-          "description": "Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, Junxian Guo, Shang Yang, Haotian Tang, Yao Fu, Song Han. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-10T18:01:39Z",
-            "owner": "mit-han-lab",
-            "repo": "duo-attention",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.",
-          "description": "Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen. NeurIPS 2023.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-01T19:41:25Z",
-            "owner": "FMInference",
-            "repo": "H2O",
-            "stars": 529
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference.",
-          "description": "Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, Baris Kasikci, Song Han. ICML 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2025-07-10T21:29:37Z",
-            "owner": "mit-han-lab",
-            "repo": "Quest",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SnapKV: LLM Knows What You are Looking for Before Generation.",
-          "description": "Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-10T21:54:27Z",
-            "owner": "FasterDecoding",
-            "repo": "SnapKV",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference.",
-          "description": "Hanshi Sun, Li-Wen Chang, Wenlei Bao, Size Zheng, Ningxin Zheng, Xin Liu, Harry Dong, Yuejie Chi, Beidi Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-01T22:49:30Z",
-            "owner": "ByteDance-Seed",
-            "repo": "ShadowKV",
-            "stars": 311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference.",
-          "description": "Yuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T11:23:52Z",
-            "owner": "Gumpest",
-            "repo": "SparseVLMs",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
-          "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-16T18:30:26Z",
-            "owner": "Infini-AI-Lab",
-            "repo": "MagicPIG",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
-          "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:52:13Z",
-            "owner": "infly-ai",
-            "repo": "INF-MLLM",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Retrieval Head Mechanistically Explains Long-Context Factuality.",
-          "description": "Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-02T08:25:57Z",
-            "owner": "nightdessert",
-            "repo": "Retrieval_Head",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction.",
-          "description": "Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T05:54:19Z",
-            "owner": "snu-mllab",
-            "repo": "KVzip",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Training-Free Activation Sparsity in Large Language Models.",
-          "description": "James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-15T04:48:08Z",
-            "owner": "FasterDecoding",
-            "repo": "TEAL",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head.",
-          "description": "Isaac Rehg. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-05T04:09:38Z",
-            "owner": "IsaacRe",
-            "repo": "vllm-kvcompress",
-            "stars": 159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.",
-          "description": "Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-26T05:19:52Z",
-            "owner": "FFY0",
-            "repo": "AdaKV",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transformers are Multi-State RNNs.",
-          "description": "Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-13T13:19:49Z",
-            "owner": "schwartz-lab-NLP",
-            "repo": "TOVA",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.",
-          "description": "Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-29T07:14:46Z",
-            "owner": "Theia-4869",
-            "repo": "FasterVLM",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Post-Training Sparse Attention with Double Sparsity.",
-          "description": "Shuo Yang, Ying Sheng, Joseph E. Gonzalez, Ion Stoica, Lianmin Zheng. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-26T07:38:01Z",
-            "owner": "andy-yang-1",
-            "repo": "DoubleSparse",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification.",
-          "description": "Wenxuan Huang, Zijie Zhai, Yunhang Shen, Shaosheng Cao, Fei Zhao, Xiangfeng Xu, Zheyu Ye, Shaohui Lin. ICLR 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-18T20:56:40Z",
-            "owner": "Osilly",
-            "repo": "dynamic_llava",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.",
-          "description": "Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-23T04:15:10Z",
-            "owner": "ywh187",
-            "repo": "FitPrune",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference.",
-          "description": "Siyu Ren, Kenny Q. Zhu. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-13T12:04:32Z",
-            "owner": "DRSY",
-            "repo": "EasyKV",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.",
-          "description": "Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-26T23:34:19Z",
-            "owner": "d-matrix-ai",
-            "repo": "keyformer-llm",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention.",
-          "description": "Lijie Yang, Zhihao Zhang, Zhuofu Chen, Zikun Li, Zhihao Jia. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-06T22:25:17Z",
-            "owner": "DerrickYLJ",
-            "repo": "TidalDecode",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction.",
-          "description": "Xuan Zhang, Cunxiao Du, Chao Du, Tianyu Pang, Wei Gao, Min Lin. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-18T04:08:29Z",
-            "owner": "sail-sg",
-            "repo": "SimLayerKV",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction.",
-          "description": "Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, Yun Liang. NeurIPS 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-17T17:51:28Z",
-            "owner": "pku-liang",
-            "repo": "ArkVale",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference.",
-          "description": "Harry Dong, Xinyu Yang, Zhenyu Zhang, Zhangyang Wang, Yuejie Chi, Beidi Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T01:42:52Z",
-            "owner": "hdong920",
-            "repo": "LESS",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs.",
-          "description": "Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-29T19:20:14Z",
-            "owner": "princeton-pli",
-            "repo": "PruLong",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference.",
-          "description": "Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-25T10:11:30Z",
-            "owner": "mutonix",
-            "repo": "pyramidinfer",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning.",
-          "description": "Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-10T23:14:26Z",
-            "owner": "FYYFU",
-            "repo": "HeadKV",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences.",
-          "description": "Ziran Qin, Yuchen Cao, Mingbao Lin, Wen Hu, Shixuan Fan, Ke Cheng, Weiyao Lin, Jianguo Li. ICLR 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-17T06:17:40Z",
-            "owner": "antgroup",
-            "repo": "cakekv",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation.",
-          "description": "Jialong Wu, Zhenglin Wang, Linhai Zhang, Yilong Lai, Yulan He, Deyu Zhou. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-05-28T11:15:52Z",
-            "owner": "Linking-ai",
-            "repo": "SCOPE",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation.",
-          "description": "Dongwon Jo, Jiwon Song, Yulhwa Kim, Jae-Joon Kim. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T04:54:59Z",
-            "owner": "dongwonjo",
-            "repo": "FastKV",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sirius: Contextual Sparsity with Correction for Efficient LLMs.",
-          "description": "Yang Zhou, Zhuoming Chen, Zhaozhuo Xu, Victoria Lin, Beidi Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-10T20:15:07Z",
-            "owner": "Infini-AI-Lab",
-            "repo": "Sirius",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference.",
-          "description": "Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang. NAACL 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-19T15:46:56Z",
-            "owner": "AIoT-MLSys-Lab",
-            "repo": "MEDA",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression.",
-          "description": "Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini. EMNLP 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-13T15:00:55Z",
-            "owner": "alessiodevoto",
-            "repo": "l2compress",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LoCoCo: Dropping In Convolutions for Long Context Compression.",
-          "description": "Ruisi Cai, Yuandong Tian, Zhangyang Wang, Beidi Chen. ICML 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-07T08:00:30Z",
-            "owner": "VITA-Group",
-            "repo": "LoCoCo",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models.",
-          "description": "Dachuan Shi, Yonggan Fu, Xiangchi Yuan, Zhongzhi Yu, Haoran You, Sixu Li, Xin Dong, Jan Kautz, Pavlo Molchanov, Yingyan (Celine)Lin. ICML 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-04T17:50:17Z",
-            "owner": "GATECH-EIC",
-            "repo": "LaCache",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters.",
-          "description": "Zhiyu Guo, Hidetaka Kamigaito, Taro Watanabe. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-05T13:29:20Z",
-            "owner": "guozhiyu",
-            "repo": "vatp",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads.",
-          "description": "Yuxiang Huang, Binhang Yuan, Xu Han, Chaojun Xiao, Zhiyuan Liu. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-03T01:39:43Z",
-            "owner": "huangyuxiang03",
-            "repo": "Locret",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs.",
-          "description": "Ravi Ghadia, Avinash Kumar, Gaurav Jain, Prashant Nair, Poulami Das. ICML 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-04-18T04:05:59Z",
-            "owner": "ghadiaravi13",
-            "repo": "MorphKV",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.",
-          "description": "Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-06T00:23:01Z",
-            "owner": "dhjoo98",
-            "repo": "mustafar",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CItruS: Chunked Instruction-aware State Eviction for Long Sequence Modeling.",
-          "description": "Yu Bai, Xiyuan Zou, Heyan Huang, Sanxing Chen, Marc-Antoine Rondeau, Yang Gao, Jackie Chi Kit Cheung. EMNLP 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-25T13:14:46Z",
-            "owner": "ybai-nlp",
-            "repo": "CItruS",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KV-Distill: Nearly Lossless Learnable Context Compression for LLMs.",
-          "description": "Vivek Chari, Guanghui Qin, Benjamin Van Durme. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-03T16:29:42Z",
-            "owner": "vnchari",
-            "repo": "kv-distill",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference.",
-          "description": "Junqi Zhao, Zhijin Fang, Shu Li, Shaohui Yang, Shichao He. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-31T01:33:32Z",
-            "owner": "JunqiZhao888",
-            "repo": "buzz-llm",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.",
-          "description": "Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-17T06:57:20Z",
-            "owner": "MGDDestiny",
-            "repo": "Lava",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.",
-          "description": "Changwoo Baek, Seungjun Shin, Kyeongbo Kong. Arxiv 2026.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-10T00:02:26Z",
-            "owner": "cvsp-lab",
-            "repo": "RestoreKV",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Efficient Sparse Attention needs Adaptive Token Release.",
-          "description": "Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-05T06:59:54Z",
-            "owner": "WHUIR",
-            "repo": "ADORE",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.",
-          "description": "Hyun Rae Jo, Dong Kun Shin. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-20T06:01:19Z",
-            "owner": "Dirac-Notation",
-            "repo": "A2SF",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "1️⃣ Pruning / Evicting / Sparse"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.",
-          "description": "Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang. EuroSys 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T03:30:59Z",
-            "owner": "LMCache",
-            "repo": "LMCache",
-            "stars": 11208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Token Merging: Your ViT But Faster.",
-          "description": "Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman. ICLR 2023.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-06-17T11:22:47Z",
-            "owner": "facebookresearch",
-            "repo": "ToMe",
-            "stars": 1207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference.",
-          "description": "Zhongwei Wan, Ziang Wu, Che Liu, Jinfa Huang, Zhihong Zhu, Peng Jin, Longyue Wang, Li Yuan. EMNLP 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-09T23:03:30Z",
-            "owner": "SUSTechBruce",
-            "repo": "LOOK-M",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning.",
-          "description": "Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-09T03:41:02Z",
-            "owner": "LaVi-Lab",
-            "repo": "AIM",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compressed Context Memory for Online Language Model Interaction.",
-          "description": "Jang-Hyun Kim, Junyoung Yeom, Sangdoo Yun, Hyun Oh Song. ICLR 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-18T14:52:11Z",
-            "owner": "snu-mllab",
-            "repo": "Context-Memory",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CaM: Cache Merging for Memory-efficient LLMs Inference.",
-          "description": "Yuxin Zhang, Yuxuan Du, Gen Luo, Yunshan Zhong, Zhenyu Zhang, Shiwei Liu, Rongrong Ji. ICML 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-19T05:17:31Z",
-            "owner": "zyxxmu",
-            "repo": "cam",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs.",
-          "description": "Woomin Song, Seunghyuk Oh, Sangwoo Mo, Jaehyung Kim, Sukmin Yun, Jung-Woo Ha, Jinwoo Shin. ICLR 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-06T17:55:24Z",
-            "owner": "alinlab",
-            "repo": "HOMER",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.",
-          "description": "Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang. ICLR 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-07T02:53:31Z",
-            "owner": "AIoT-MLSys-Lab",
-            "repo": "D2O",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "2️⃣ Merging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "You Only Cache Once: Decoder-Decoder Architectures for Language Models.",
-          "description": "Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei. NeurIPS 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-23T04:09:35Z",
-            "owner": "microsoft",
-            "repo": "unilm",
-            "stars": 22192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation.",
-          "description": "Aurick Qiao, Zhewei Yao, Samyam Rajbhandari, Yuxiong He. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T20:32:27Z",
-            "owner": "snowflakedb",
-            "repo": "ArcticTraining",
-            "stars": 290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Layer-Condensed KV Cache for Efficient Inference of Large Language Models.",
-          "description": "Haoyi Wu, Kewei Tu. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-07T02:03:42Z",
-            "owner": "whyNLP",
-            "repo": "LCKV",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.",
-          "description": "Zayd Muhammad Kawakibi Zuhri, Muhammad Farid Adilazuarda, Ayu Purwarianti, Alham Fikri Aji. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-14T02:27:56Z",
-            "owner": "zaydzuhri",
-            "repo": "pythia-mlkv",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing.",
-          "description": "Yifei Yang, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-24T08:20:55Z",
-            "owner": "yangyifei729",
-            "repo": "KVSharer",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MiniCache: KV Cache Compression in Depth Dimension for Large Language Models.",
-          "description": "Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-07T02:57:19Z",
-            "owner": "AkideLiu",
-            "repo": "MiniCache",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "3️⃣ Cross-Layer"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model.",
-          "description": "DeepSeek-AI. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-09-25T10:23:55Z",
-            "owner": "deepseek-ai",
-            "repo": "DeepSeek-V2",
-            "stars": 5034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Palu: Compressing KV-Cache with Low-Rank Projection.",
-          "description": "Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu. ICLR 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-20T03:25:09Z",
-            "owner": "shadowpa0327",
-            "repo": "Palu",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThinK: Thinner Key Cache by Query-Driven Pruning.",
-          "description": "Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-02T18:54:48Z",
-            "owner": "SalesforceAIResearch",
-            "repo": "ThinK",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tensor Product Attention Is All You Need.",
-          "description": "Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-14T22:03:29Z",
-            "owner": "tensorgi",
-            "repo": "T6",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "4️⃣ Low-Rank"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.",
-          "description": "Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni. ICLR 2026.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-27T22:30:40Z",
-            "owner": "0xSero",
-            "repo": "turboquant",
-            "stars": 1724
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.",
-          "description": "Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami. NeurIPS 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-13T11:19:28Z",
-            "owner": "SqueezeAILab",
-            "repo": "KVQuant",
-            "stars": 432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache.",
-          "description": "Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu. ICML 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-20T20:34:33Z",
-            "owner": "jy-yuan",
-            "repo": "KIVI",
-            "stars": 427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM.",
-          "description": "Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-12T17:21:28Z",
-            "owner": "opengear-project",
-            "repo": "GEAR",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache.",
-          "description": "Dayou Du, Shijie Cao, Jianyi Cheng, Ting Cao, Mao Yang. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-14T10:23:13Z",
-            "owner": "OpenBitSys",
-            "repo": "BitDecoding",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QAQ: Quality Adaptive Quantization for LLM KV Cache.",
-          "description": "Shichen Dong, Wen Cheng, Jiayu Qin, Wei Wang. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-27T05:06:12Z",
-            "owner": "ClubieDong",
-            "repo": "QAQ-KVCacheQuantization",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PolarQuant: Quantizing KV Caches with Polar Transformation.",
-          "description": "Insu Han, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh. NeurIPS 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-02T02:34:54Z",
-            "owner": "ericshwu",
-            "repo": "PolarQuant",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference.",
-          "description": "Xing Li, Zeyu Xing, Yiming Li, Linping Qu, Hui-Ling Zhen, Wulong Liu, Yiwu Yao, Sinno Jialin Pan, Mingxuan Yuan. ICML 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-27T10:24:10Z",
-            "owner": "cmd2001",
-            "repo": "KVTuner",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.",
-          "description": "Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-26T13:09:46Z",
-            "owner": "KD-TAO",
-            "repo": "VidKV",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models.",
-          "description": "Haojie Duanmu, Zhihang Yuan, Xiuhong Li, Jiangfei Duan, Xingcheng Zhang, Dahua Lin. Arxiv 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-05T07:26:45Z",
-            "owner": "cat538",
-            "repo": "SKVQ",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization.",
-          "description": "Dingyu Yao, Bowen Shen, Zheng Lin, Wei Liu, Jian Luan, Bin Wang, Weiping Wang. ACL 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-25T07:12:31Z",
-            "owner": "ydyhello",
-            "repo": "TailorKV",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "5️⃣ Quantization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.",
-          "description": "Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu. EMNLP 2023.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T18:59:13Z",
-            "owner": "microsoft",
-            "repo": "LLMLingua",
-            "stars": 6579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression.",
-          "description": "Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T18:59:13Z",
-            "owner": "microsoft",
-            "repo": "LLMLingua",
-            "stars": 6579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression.",
-          "description": "Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu. ACL 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T18:59:13Z",
-            "owner": "microsoft",
-            "repo": "LLMLingua",
-            "stars": 6579
-          }
-        }
-      ],
-      "title": "6️⃣ Prompt Compression"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding.",
-          "description": "Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-30T10:38:26Z",
-            "owner": "NVlabs",
-            "repo": "Fast-dLLM",
-            "stars": 1075
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching.",
-          "description": "Zhiyuan Liu, Yicun Yang, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-01T07:50:21Z",
-            "owner": "maomaocun",
-            "repo": "dLLM-cache",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dKV-Cache: The Cache for Diffusion Language Models.",
-          "description": "Xinyin Ma, Runpeng Yu, Gongfan Fang, Xinchao Wang. Arxiv 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-22T02:15:46Z",
-            "owner": "horseee",
-            "repo": "dKV-Cache",
-            "stars": 135
-          }
-        }
-      ],
-      "title": "8️⃣ Non-Autoregressive"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1347,6 +1436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804362023,
             "language": "Python",
             "last_commit": "2026-04-08T08:04:38Z",
             "owner": "microsoft",
@@ -1361,6 +1451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 857140017,
             "language": "Python",
             "last_commit": "2025-02-27T06:41:29Z",
             "owner": "henryzhongsc",
@@ -1375,6 +1466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203619705,
             "language": "Python",
             "last_commit": "2026-08-04T19:29:50Z",
             "owner": "jagmarques",
@@ -1389,6 +1481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881356524,
             "language": "Python",
             "last_commit": "2025-03-07T18:23:25Z",
             "owner": "LLMkvsys",
@@ -1403,6 +1496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 912420670,
             "language": "Python",
             "last_commit": "2025-01-15T04:16:18Z",
             "owner": "zhzihao",
@@ -1415,8 +1509,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:52:15.361Z",
+    "last_updated": "2026-08-19T12:08:37.854Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
+    "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
     "enhanced_repository_description": null,
