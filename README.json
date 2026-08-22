@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-21T02:45:01Z",
+                "last_commit": "2026-08-22T01:05:37Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11266
+                "stars": 11307
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2024-07-11T08:14:43Z",
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7262
+                "stars": 7264
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-13T07:35:40Z",
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1373
+                "stars": 1374
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-18T11:52:13Z",
                 "owner": "infly-ai",
                 "repo": "INF-MLLM",
-                "stars": 248
+                "stars": 249
               }
             },
             {
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-21T02:45:01Z",
+                "last_commit": "2026-08-22T01:05:37Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11266
+                "stars": 11307
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22192
+                "stars": 22194
               }
             },
             {
@@ -1161,7 +1161,7 @@
                 "last_commit": "2026-03-27T22:30:40Z",
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1729
+                "stars": 1732
               }
             },
             {
@@ -1221,7 +1221,7 @@
                 "last_commit": "2026-05-14T10:23:13Z",
                 "owner": "OpenBitSys",
                 "repo": "BitDecoding",
-                "stars": 96
+                "stars": 99
               }
             },
             {
@@ -1271,6 +1271,21 @@
             },
             {
               "node_type": "item",
+              "title": "SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models.",
+              "description": "Haojie Duanmu, Zhihang Yuan, Xiuhong Li, Jiangfei Duan, Xingcheng Zhang, Dahua Lin. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797639685,
+                "language": "Python",
+                "last_commit": "2024-10-05T07:26:45Z",
+                "owner": "cat538",
+                "repo": "SKVQ",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.",
               "description": "Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang. Arxiv 2025.",
               "children": [],
@@ -1282,21 +1297,6 @@
                 "owner": "KD-TAO",
                 "repo": "VidKV",
                 "stars": 25
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models.",
-              "description": "Haojie Duanmu, Zhihang Yuan, Xiuhong Li, Jiangfei Duan, Xingcheng Zhang, Dahua Lin. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 797639685,
-                "language": "Python",
-                "last_commit": "2024-10-05T07:26:45Z",
-                "owner": "cat538",
-                "repo": "SKVQ",
-                "stars": 24
               }
             },
             {
@@ -1333,7 +1333,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6587
+                "stars": 6593
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6587
+                "stars": 6593
               }
             },
             {
@@ -1363,7 +1363,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6587
+                "stars": 6593
               }
             }
           ],
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:53:07.007Z",
+    "last_updated": "2026-08-22T05:48:40.183Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
