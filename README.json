@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:05:37Z",
+                "last_commit": "2026-08-22T10:05:18Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11307
+                "stars": 11318
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-08-16T02:42:22Z",
                 "owner": "PaddlePaddle",
                 "repo": "Research",
-                "stars": 1761
+                "stars": 1762
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-08-01T19:41:25Z",
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 529
+                "stars": 530
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2025-07-10T21:29:37Z",
                 "owner": "mit-han-lab",
                 "repo": "Quest",
-                "stars": 402
+                "stars": 403
               }
             },
             {
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:05:37Z",
+                "last_commit": "2026-08-22T10:05:18Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11307
+                "stars": 11318
               }
             },
             {
@@ -1042,7 +1042,7 @@
                 "last_commit": "2024-06-14T02:27:56Z",
                 "owner": "zaydzuhri",
                 "repo": "pythia-mlkv",
-                "stars": 34
+                "stars": 35
               }
             },
             {
@@ -1161,7 +1161,7 @@
                 "last_commit": "2026-03-27T22:30:40Z",
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1732
+                "stars": 1735
               }
             },
             {
@@ -1176,7 +1176,7 @@
                 "last_commit": "2024-08-13T11:19:28Z",
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -1333,7 +1333,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6593
+                "stars": 6594
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6593
+                "stars": 6594
               }
             },
             {
@@ -1363,7 +1363,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6593
+                "stars": 6594
               }
             }
           ],
@@ -1385,7 +1385,7 @@
                 "last_commit": "2026-05-30T10:38:26Z",
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1077
+                "stars": 1078
               }
             },
             {
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:48:40.183Z",
+    "last_updated": "2026-08-23T05:51:10.950Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
