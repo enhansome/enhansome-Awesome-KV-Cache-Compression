@@ -5,6 +5,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "kvpress.",
+          "description": "NVIDIA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 884452470,
+            "language": "Python",
+            "last_commit": "2026-08-18T10:31:20Z",
+            "owner": "NVIDIA",
+            "repo": "kvpress",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KVCache-Factory.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810707714,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:35:40Z",
+            "owner": "Zefan-Cai",
+            "repo": "KVCache-Factory",
+            "stars": 1375
+          }
+        }
+      ],
+      "title": "⚙️ Project"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "A Survey on Large Language Model Acceleration based on KV Cache Management.",
           "description": "Haoyang Li, Yiming Li, Anxin Tian, Tianhao Tang, Zhanchao Xu, Xuejia Chen, Nicole Hu, Wei Dong, Qing Li, Lei Chen. Arxiv 2024.",
           "children": [],
@@ -50,10 +86,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-23T23:26:16Z",
+                "last_commit": "2026-08-24T09:54:11Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11331
+                "stars": 11341
               }
             },
             {
@@ -98,7 +134,7 @@
                 "last_commit": "2026-08-13T07:35:40Z",
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1374
+                "stars": 1375
               }
             },
             {
@@ -188,7 +224,7 @@
                 "last_commit": "2024-08-01T19:41:25Z",
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 531
+                "stars": 532
               }
             },
             {
@@ -233,7 +269,7 @@
                 "last_commit": "2025-05-01T22:49:30Z",
                 "owner": "ByteDance-Seed",
                 "repo": "ShadowKV",
-                "stars": 311
+                "stars": 312
               }
             },
             {
@@ -867,10 +903,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-23T23:26:16Z",
+                "last_commit": "2026-08-24T09:54:11Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11331
+                "stars": 11341
               }
             },
             {
@@ -997,7 +1033,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -1094,7 +1130,7 @@
                 "last_commit": "2024-09-25T10:23:55Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5034
+                "stars": 5035
               }
             },
             {
@@ -1161,7 +1197,7 @@
                 "last_commit": "2026-03-27T22:30:40Z",
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1736
+                "stars": 1737
               }
             },
             {
@@ -1333,7 +1369,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6599
+                "stars": 6600
               }
             },
             {
@@ -1348,7 +1384,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6599
+                "stars": 6600
               }
             },
             {
@@ -1363,13 +1399,35 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6599
+                "stars": 6600
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "6️⃣ Prompt Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse.",
+              "description": "Jingbo Yang, Bairu Hou, Wei Wei, Yujia Bao, Shiyu Chang. Arxiv 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 938451102,
+                "language": "Python",
+                "last_commit": "2025-10-16T21:18:24Z",
+                "owner": "UCSB-NLP-Chang",
+                "repo": "KVLink",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7️⃣ Reuse"
         },
         {
           "children": [
@@ -1385,7 +1443,7 @@
                 "last_commit": "2026-05-30T10:38:26Z",
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1078
+                "stars": 1079
               }
             },
             {
@@ -1509,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:58:42.376Z",
+    "last_updated": "2026-08-24T14:18:10.193Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
