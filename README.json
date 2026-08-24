@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-22T10:05:18Z",
+                "last_commit": "2026-08-23T23:26:16Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11318
+                "stars": 11331
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-08-01T19:41:25Z",
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 530
+                "stars": 531
               }
             },
             {
@@ -867,10 +867,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-22T10:05:18Z",
+                "last_commit": "2026-08-23T23:26:16Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11318
+                "stars": 11331
               }
             },
             {
@@ -1161,7 +1161,7 @@
                 "last_commit": "2026-03-27T22:30:40Z",
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1735
+                "stars": 1736
               }
             },
             {
@@ -1333,7 +1333,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6594
+                "stars": 6599
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6594
+                "stars": 6599
               }
             },
             {
@@ -1363,7 +1363,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6594
+                "stars": 6599
               }
             }
           ],
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:51:10.950Z",
+    "last_updated": "2026-08-24T05:58:42.376Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
