@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T10:31:20Z",
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1189
+            "stars": 1190
           }
         },
         {
@@ -86,10 +86,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:05:10Z",
+                "last_commit": "2026-08-25T07:56:44Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11353
+                "stars": 11355
               }
             },
             {
@@ -104,7 +104,7 @@
                 "last_commit": "2024-07-11T08:14:43Z",
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7264
+                "stars": 7265
               }
             },
             {
@@ -903,10 +903,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:05:10Z",
+                "last_commit": "2026-08-25T07:56:44Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11353
+                "stars": 11355
               }
             },
             {
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:37.850Z",
+    "last_updated": "2026-08-25T08:06:51.112Z",
     "original_repository": "October2001/Awesome-KV-Cache-Compression",
     "original_repository_id": 832441513,
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
