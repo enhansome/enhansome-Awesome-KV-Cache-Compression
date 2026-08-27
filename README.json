@@ -86,10 +86,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:00:18Z",
+                "last_commit": "2026-08-27T16:29:57Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11484
+                "stars": 11490
               }
             },
             {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 728096122,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:12:06Z",
+                "last_commit": "2026-08-27T11:56:11Z",
                 "owner": "infly-ai",
                 "repo": "INF-MLLM",
                 "stars": 250
@@ -903,10 +903,10 @@
                 "archived": false,
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:00:18Z",
+                "last_commit": "2026-08-27T16:29:57Z",
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11484
+                "stars": 11490
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2024-09-25T10:23:55Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5039
+                "stars": 5040
               }
             },
             {
@@ -1458,7 +1458,7 @@
                 "last_commit": "2026-05-01T07:50:21Z",
                 "owner": "maomaocun",
                 "repo": "dLLM-cache",
-                "stars": 213
+                "stars": 214
               }
             },
             {
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:43.071Z",
+    "last_updated": "2026-08-27T16:35:07.087Z",
     "original_repository_info": {
       "archived": false,
       "id": 832441513,
