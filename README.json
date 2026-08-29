@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:14:31Z",
+                "last_commit": "2026-08-29T09:42:46Z",
                 "open_issues": 595,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11552,
+                "stars": 11556,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:14:31Z",
+                "last_commit": "2026-08-29T09:42:46Z",
                 "open_issues": 595,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11552,
+                "stars": 11556,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1816,7 +1816,7 @@
                 "open_issues": 12,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6610,
+                "stars": 6611,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6610,
+                "stars": 6611,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6610,
+                "stars": 6611,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:55.456Z",
+    "last_updated": "2026-08-29T11:42:11.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
