@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM KV cache compression made easy",
+            "homepage": null,
             "id": 884452470,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T10:31:20Z",
+            "open_issues": 10,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1196
+            "stars": 1196,
+            "topics": [
+              "inference",
+              "kv-cache",
+              "kv-cache-compression",
+              "large-language-models",
+              "llm",
+              "long-context",
+              "python",
+              "pytorch",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         },
@@ -26,12 +41,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+            "homepage": null,
             "id": 810707714,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:35:40Z",
+            "open_issues": 4,
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1375
+            "stars": 1375,
+            "topics": [
+              "kv-cache",
+              "kv-cache-compression",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         }
@@ -48,12 +72,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository serves as a comprehensive survey of LLM development, featuring numerous research papers along with their corresponding code links.",
+            "homepage": null,
             "id": 906962208,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-16T03:24:43Z",
+            "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 351
+            "stars": 352,
+            "topics": [
+              "llm",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         },
@@ -64,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 828833724,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-09T15:51:23Z",
+            "open_issues": 1,
             "owner": "zcli-charlie",
             "repo": "Awesome-KV-Cache",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         }
@@ -88,12 +125,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+                "homepage": "https://lmcache.ai/",
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:24:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:14:31Z",
+                "open_issues": 595,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11545
+                "stars": 11552,
+                "topics": [
+                  "amd",
+                  "cuda",
+                  "fast",
+                  "inference",
+                  "kv-cache",
+                  "llm",
+                  "pytorch",
+                  "rocm",
+                  "speed",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -104,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks",
+                "homepage": "https://arxiv.org/abs/2309.17453",
                 "id": 698344263,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-11T08:14:43Z",
+                "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7268
+                "stars": 7268,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -120,12 +178,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "novel deep learning research works with PaddlePaddle",
+                "homepage": null,
                 "id": 240226378,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-16T02:42:22Z",
+                "open_issues": 137,
                 "owner": "PaddlePaddle",
                 "repo": "Research",
-                "stars": 1763
+                "stars": 1763,
+                "topics": [
+                  "computer-vision",
+                  "data-mining",
+                  "deep-learning",
+                  "knowledge-graph",
+                  "nlp",
+                  "spatial-temporal"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -136,12 +206,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified KV Cache Compression Methods for Auto-Regressive Models",
+                "homepage": null,
                 "id": 810707714,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:35:40Z",
+                "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1375
+                "stars": 1375,
+                "topics": [
+                  "kv-cache",
+                  "kv-cache-compression",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -152,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24 Spotlight, ICLR'25, ICML'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.",
+                "homepage": "https://aka.ms/MInference",
                 "id": 804362023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T08:04:38Z",
+                "open_issues": 93,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1226
+                "stars": 1226,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -168,12 +252,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Neurips 2025] R-KV: Redundancy-aware KV Cache Compression for Reasoning Models",
+                "homepage": "https://zefan-cai.github.io/R-KV.page/",
                 "id": 992765151,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-20T04:54:05Z",
+                "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
-                "stars": 1209
+                "stars": 1209,
+                "topics": [
+                  "kvcache",
+                  "llm",
+                  "reasoning-models"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -184,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MLSys'25] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; [MLSys'25] LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention",
+                "homepage": null,
                 "id": 796839092,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-06T03:22:14Z",
+                "open_issues": 53,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 854
+                "stars": 854,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -200,12 +298,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025] \"SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator\"",
+                "homepage": "https://arxiv.org/abs/2412.12094",
                 "id": 901925992,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-29T15:26:34Z",
+                "open_issues": 3,
                 "owner": "HKUDS",
                 "repo": "SepLLM",
-                "stars": 572
+                "stars": 572,
+                "topics": [
+                  "inference-speed",
+                  "large-language-models",
+                  "llms"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -216,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads",
+                "homepage": "https://arxiv.org/html/2410.10819v1",
                 "id": 872740053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-10T18:01:39Z",
+                "open_issues": 15,
                 "owner": "mit-han-lab",
                 "repo": "duo-attention",
-                "stars": 539
+                "stars": 539,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -232,12 +344,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.",
+                "homepage": null,
                 "id": 652462927,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-01T19:41:25Z",
+                "open_issues": 36,
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 532
+                "stars": 532,
+                "topics": [
+                  "gpt-3",
+                  "heavy-hitters",
+                  "high-throughput",
+                  "kv-cache",
+                  "large-language-models",
+                  "sparsity"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -248,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference",
+                "homepage": null,
                 "id": 815507746,
                 "language": "Cuda",
+                "license": "MIT",
                 "last_commit": "2025-07-10T21:29:37Z",
+                "open_issues": 6,
                 "owner": "mit-han-lab",
                 "repo": "Quest",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -264,12 +393,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776297458,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-10T21:54:27Z",
+                "open_issues": 19,
                 "owner": "FasterDecoding",
                 "repo": "SnapKV",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "long-context-modeling"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -280,12 +416,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025 Spotlight] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference",
+                "homepage": "https://ByteDance-Seed.github.io/ShadowKV/",
                 "id": 876463366,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-01T22:49:30Z",
+                "open_issues": 8,
                 "owner": "ByteDance-Seed",
                 "repo": "ShadowKV",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "cpu-offload",
+                  "high-throughput",
+                  "llm-inference",
+                  "long-context",
+                  "low-rank",
+                  "research",
+                  "sparse-attention"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -296,12 +445,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML'25][TPAMI'26] Official implementation of paper \"SparseVLM\" and \"SparseVLM+\".",
+                "homepage": "https://arxiv.org/pdf/2410.04417",
                 "id": 867423767,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T11:23:52Z",
+                "open_issues": 9,
                 "owner": "Gumpest",
                 "repo": "SparseVLMs",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "efficiency",
+                  "sparsevlm",
+                  "sparsevlm-plus",
+                  "sparsification",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -312,12 +472,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation",
+                "homepage": null,
                 "id": 876363500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-16T18:30:26Z",
+                "open_issues": 13,
                 "owner": "Infini-AI-Lab",
                 "repo": "MagicPIG",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "decoding",
+                  "gpu-cpu",
+                  "llm-inference",
+                  "lsh-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -328,12 +498,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "INF Tech's open-source MLLMs for SOTA visual-language understanding and advanced document intelligence.",
+                "homepage": "https://huggingface.co/infly",
                 "id": 728096122,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T11:56:11Z",
+                "open_issues": 24,
                 "owner": "infly-ai",
                 "repo": "INF-MLLM",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "document-intelligence",
+                  "mllm",
+                  "multimodal-rl",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -344,12 +524,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open-source code for paper: Retrieval Head Mechanistically Explains Long-Context Factuality",
+                "homepage": "https://arxiv.org/abs/2404.15574",
                 "id": 788459169,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-02T08:25:57Z",
+                "open_issues": 7,
                 "owner": "nightdessert",
                 "repo": "Retrieval_Head",
-                "stars": 241
+                "stars": 241,
+                "topics": [
+                  "large-language-models",
+                  "long-context"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -360,12 +548,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'25 Oral] Query-agnostic KV cache eviction: 3–4× reduction in memory and 2× decrease in latency (Qwen3/2.5, Gemma3, LLaMA3)",
+                "homepage": null,
                 "id": 991826061,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-11T05:54:19Z",
+                "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "kv-cache-compression",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -376,12 +572,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 848716186,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-15T04:48:08Z",
+                "open_issues": 7,
                 "owner": "FasterDecoding",
                 "repo": "TEAL",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "llm",
+                  "llm-inference",
+                  "sparsity"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -392,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KV cache compression for high-throughput LLM inference",
+                "homepage": null,
                 "id": 776546729,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-05T04:09:38Z",
+                "open_issues": 8,
                 "owner": "IsaacRe",
                 "repo": "vllm-kvcompress",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -408,12 +618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Official Implementation of Ada-KV [NeurIPS 2025]",
+                "homepage": "https://arxiv.org/abs/2407.11550",
                 "id": 821296943,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-26T05:19:52Z",
+                "open_issues": 0,
                 "owner": "FFY0",
                 "repo": "AdaKV",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -424,12 +639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Token Omission Via Attention",
+                "homepage": null,
                 "id": 741438641,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-13T13:19:49Z",
+                "open_issues": 5,
                 "owner": "schwartz-lab-NLP",
                 "repo": "TOVA",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -440,12 +660,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for paper: [CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.",
+                "homepage": "http://theia4869.com/FasterVLM/",
                 "id": 894941483,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-29T07:14:46Z",
+                "open_issues": 0,
                 "owner": "Theia-4869",
                 "repo": "FasterVLM",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "inference-efficiency",
+                  "training-free-acceleration",
+                  "vision-language-model",
+                  "visual-token-pruning"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -456,12 +686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "16-fold memory access reduction with nearly no loss",
+                "homepage": null,
                 "id": 844205606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-26T07:38:01Z",
+                "open_issues": 9,
                 "owner": "andy-yang-1",
                 "repo": "DoubleSparse",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -472,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] The official pytorch implement of \"Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification\".",
+                "homepage": null,
                 "id": 835107405,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-18T20:56:40Z",
+                "open_issues": 0,
                 "owner": "Osilly",
                 "repo": "dynamic_llava",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -488,12 +728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 858039636,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-23T04:15:10Z",
+                "open_issues": 2,
                 "owner": "ywh187",
                 "repo": "FitPrune",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -504,12 +749,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy control for Key-Value Constrained Generative LLM Inference(https://arxiv.org/abs/2402.06262)",
+                "homepage": null,
                 "id": 743089011,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-13T12:04:32Z",
+                "open_issues": 3,
                 "owner": "DRSY",
                 "repo": "EasyKV",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "cache-eviction",
+                  "cache-management",
+                  "kv-cache",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -520,12 +775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keyformer proposes KV Cache reduction through key tokens identification and without the need for fine-tuning",
+                "homepage": null,
                 "id": 771884120,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-26T23:34:19Z",
+                "open_issues": 4,
                 "owner": "d-matrix-ai",
                 "repo": "keyformer-llm",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -536,12 +796,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] TidalDecode: A Fast and Accurate LLM Decoding with Position Persistent Sparse Attention",
+                "homepage": "https://arxiv.org/abs/2410.05076",
                 "id": 829641544,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-06T22:25:17Z",
+                "open_issues": 1,
                 "owner": "DerrickYLJ",
                 "repo": "TidalDecode",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "efficient",
+                  "long-context-attention",
+                  "mlsys"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -552,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper: SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction.",
+                "homepage": null,
                 "id": 872805724,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-18T04:08:29Z",
+                "open_issues": 1,
                 "owner": "sail-sg",
                 "repo": "SimLayerKV",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -568,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction (NIPS'24)",
+                "homepage": null,
                 "id": 865025817,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-17T17:51:28Z",
+                "open_issues": 5,
                 "owner": "pku-liang",
                 "repo": "ArkVale",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -584,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 749145076,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-13T01:42:52Z",
+                "open_issues": 2,
                 "owner": "hdong920",
                 "repo": "LESS",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -600,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the preprint \"Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?\"",
+                "homepage": null,
                 "id": 1005104085,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-29T19:20:14Z",
+                "open_issues": 1,
                 "owner": "princeton-pli",
                 "repo": "PruLong",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -616,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 813408285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-25T10:11:30Z",
+                "open_issues": 4,
                 "owner": "mutonix",
                 "repo": "pyramidinfer",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -632,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2025] Code and data for paper: Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning ",
+                "homepage": null,
                 "id": 882108549,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-10T23:14:26Z",
+                "open_issues": 1,
                 "owner": "FYYFU",
                 "repo": "HeadKV",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -648,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 939823990,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-17T06:17:40Z",
+                "open_issues": 8,
                 "owner": "antgroup",
                 "repo": "cakekv",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -664,12 +968,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ACL2025 oral) SCOPE: Optimizing KV Cache Compression in Long-context Generation",
+                "homepage": null,
                 "id": 900747828,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-05-28T11:15:52Z",
+                "open_issues": 0,
                 "owner": "Linking-ai",
                 "repo": "SCOPE",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "kv-cache-compression",
+                  "kvcache",
+                  "long-context"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -680,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL Findings 2026] Official Implementation of \"FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration\"",
+                "homepage": null,
                 "id": 926352351,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-14T04:54:59Z",
+                "open_issues": 0,
                 "owner": "dongwonjo",
                 "repo": "FastKV",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -696,12 +1014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sirius, an efficient correction mechanism, which significantly boosts Contextual Sparsity models on reasoning tasks while maintaining its efficiency gain.",
+                "homepage": null,
                 "id": 849553688,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-10T20:15:07Z",
+                "open_issues": 0,
                 "owner": "Infini-AI-Lab",
                 "repo": "Sirius",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -712,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NAACL 2025🔥] MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference",
+                "homepage": null,
                 "id": 920932939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-19T15:46:56Z",
+                "open_issues": 3,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "MEDA",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -728,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the EMNLP24 paper \"A simple and effective L2 norm based method for KV Cache compression.\"",
+                "homepage": null,
                 "id": 882431947,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-13T15:00:55Z",
+                "open_issues": 0,
                 "owner": "alessiodevoto",
                 "repo": "l2compress",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -744,12 +1077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML‘2024] \"LoCoCo: Dropping In Convolutions for Long Context Compression\", Ruisi Cai, Yuandong Tian, Zhangyang Wang, Beidi Chen",
+                "homepage": null,
                 "id": 812105783,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-07T08:00:30Z",
+                "open_issues": 3,
                 "owner": "VITA-Group",
                 "repo": "LoCoCo",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -760,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025] LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models",
+                "homepage": "https://arxiv.org/pdf/2507.14204",
                 "id": 996241998,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-11-04T17:50:17Z",
+                "open_issues": 0,
                 "owner": "GATECH-EIC",
                 "repo": "LaCache",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -776,12 +1119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2024 (main)] Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters",
+                "homepage": null,
                 "id": 865686390,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-05T13:29:20Z",
+                "open_issues": 0,
                 "owner": "guozhiyu",
                 "repo": "vatp",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -792,12 +1140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 863033270,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-03T01:39:43Z",
+                "open_issues": 0,
                 "owner": "huangyuxiang03",
                 "repo": "Locret",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -808,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Constant-Sized KV Caches for Extended Responses in LLMs",
+                "homepage": null,
                 "id": 945532239,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-18T04:05:59Z",
+                "open_issues": 0,
                 "owner": "ghadiaravi13",
                 "repo": "MorphKV",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -824,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "codebase for MUSTAFAR:Promoting Unstructured Sparsity for KV Pruning in LLM Inference ",
+                "homepage": null,
                 "id": 989861731,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-06T00:23:01Z",
+                "open_issues": 1,
                 "owner": "dhjoo98",
                 "repo": "mustafar",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -840,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the EMNLP 2024 paper \"CItruS: Chunked Instruction-aware State Eviction for Long Sequence Modeling\"",
+                "homepage": null,
                 "id": 860196015,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-25T13:14:46Z",
+                "open_issues": 0,
                 "owner": "ybai-nlp",
                 "repo": "CItruS",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -856,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trainable Compression For LLMs",
+                "homepage": null,
                 "id": 942137664,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-03T16:29:42Z",
+                "open_issues": 1,
                 "owner": "vnchari",
                 "repo": "kv-distill",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -872,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 854431366,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-31T01:33:32Z",
+                "open_issues": 1,
                 "owner": "JunqiZhao888",
                 "repo": "buzz-llm",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -888,12 +1266,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation",
+                "homepage": null,
                 "id": 1054807583,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-17T06:57:20Z",
+                "open_issues": 1,
                 "owner": "MGDDestiny",
                 "repo": "Lava",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "kv-cache-compression",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -904,12 +1290,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RestoreKV: Recovering full-cache behavior under aggressive query-agnostic KV cache eviction.",
+                "homepage": "https://paper.pnu-cvsp.com/RestoreKV/",
                 "id": 1320180300,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-10T00:02:26Z",
+                "open_issues": 0,
                 "owner": "cvsp-lab",
                 "repo": "RestoreKV",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "kvcache",
+                  "kvcache-compression",
+                  "kvpress",
+                  "llm",
+                  "longcontext",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -920,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 810674958,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-05T06:59:54Z",
+                "open_issues": 1,
                 "owner": "WHUIR",
                 "repo": "ADORE",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -936,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A2SF",
+                "homepage": null,
                 "id": 951733920,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-20T06:01:19Z",
+                "open_issues": 1,
                 "owner": "Dirac-Notation",
                 "repo": "A2SF",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -959,12 +1367,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+                "homepage": "https://lmcache.ai/",
                 "id": 807305060,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:24:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:14:31Z",
+                "open_issues": 595,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11545
+                "stars": 11552,
+                "topics": [
+                  "amd",
+                  "cuda",
+                  "fast",
+                  "inference",
+                  "kv-cache",
+                  "llm",
+                  "pytorch",
+                  "rocm",
+                  "speed",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -975,12 +1399,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A method to increase the speed and lower the memory footprint of existing vision transformers.",
+                "homepage": null,
                 "id": 553339916,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-17T11:22:47Z",
+                "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "ToMe",
-                "stars": 1207
+                "stars": 1207,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -991,12 +1420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2024 Findings🔥] Official implementation of \": LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference\"",
+                "homepage": null,
                 "id": 820255233,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-09T23:03:30Z",
+                "open_issues": 4,
                 "owner": "SUSTechBruce",
                 "repo": "LOOK-M",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1007,12 +1441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Official code for \"AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning\"",
+                "homepage": null,
                 "id": 898238616,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-09T03:41:02Z",
+                "open_issues": 0,
                 "owner": "LaVi-Lab",
                 "repo": "AIM",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1023,12 +1462,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation for \"Compressed Context Memory For Online Language Model Interaction\" (ICLR'24)",
+                "homepage": "https://arxiv.org/abs/2312.03414",
                 "id": 727120312,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-18T14:52:11Z",
+                "open_issues": 1,
                 "owner": "snu-mllab",
                 "repo": "Context-Memory",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "context-compression",
+                  "efficient-llm-inference",
+                  "kv-cache-compression"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1039,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of our paper accepted by ICML 2024 -- CaM: Cache Merging for Memory-efficient LLMs Inference",
+                "homepage": null,
                 "id": 804107829,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-19T05:17:31Z",
+                "open_issues": 5,
                 "owner": "zyxxmu",
                 "repo": "cam",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1055,12 +1508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs (ICLR 2024).",
+                "homepage": null,
                 "id": 771943964,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-06T17:55:24Z",
+                "open_issues": 0,
                 "owner": "alinlab",
                 "repo": "HOMER",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1071,12 +1529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025🔥] D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models",
+                "homepage": null,
                 "id": 816862198,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-07T02:53:31Z",
+                "open_issues": 1,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "D2O",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1094,12 +1557,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1110,12 +1599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArcticTraining is a framework designed to simplify and accelerate the post-training process for large language models (LLMs)",
+                "homepage": "https://arctictraining.readthedocs.io",
                 "id": 914995486,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T22:16:01Z",
+                "open_issues": 61,
                 "owner": "snowflakedb",
                 "repo": "ArcticTraining",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1126,12 +1620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Layer-Condensed KV cache w/ 10 times larger batch size, fewer params and less computation. Dramatic speed up with better task performance. Accepted to ACL 2024.",
+                "homepage": "https://arxiv.org/abs/2405.10637",
                 "id": 769411663,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-07T02:03:42Z",
+                "open_issues": 2,
                 "owner": "whyNLP",
                 "repo": "LCKV",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1142,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Layer Key-Value sharing experiments on Pythia models",
+                "homepage": null,
                 "id": 735295512,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-06-14T02:27:56Z",
+                "open_issues": 0,
                 "owner": "zaydzuhri",
                 "repo": "pythia-mlkv",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1158,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of paper ''KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing''",
+                "homepage": null,
                 "id": 877753761,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-24T08:20:55Z",
+                "open_issues": 1,
                 "owner": "yangyifei729",
                 "repo": "KVSharer",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1174,12 +1683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 853244326,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-09-07T02:57:19Z",
+                "open_issues": 3,
                 "owner": "AkideLiu",
                 "repo": "MiniCache",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1197,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+                "homepage": null,
                 "id": 790044051,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-09-25T10:23:55Z",
+                "open_issues": 89,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5038
+                "stars": 5038,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1213,12 +1732,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Palu: Compressing KV-Cache with Low-Rank Projection",
+                "homepage": null,
                 "id": 822939540,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-20T03:25:09Z",
+                "open_issues": 7,
                 "owner": "shadowpa0327",
                 "repo": "Palu",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "deepseek",
+                  "kv-cache-compression",
+                  "kv-cache-quantization",
+                  "mla"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1229,12 +1758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ThinK: Thinner Key Cache by Query-Driven Pruning",
+                "homepage": null,
                 "id": 869325162,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T18:54:48Z",
+                "open_issues": 5,
                 "owner": "SalesforceAIResearch",
                 "repo": "ThinK",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1245,12 +1779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository has been relocated. Please visit: https://github.com/tensorgi/TPA ",
+                "homepage": "https://github.com/tensorgi/TPA",
                 "id": 1059800918,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-14T22:03:29Z",
+                "open_issues": 0,
                 "owner": "tensorgi",
                 "repo": "T6",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1268,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration",
+                "homepage": null,
                 "id": 1192031521,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-27T22:30:40Z",
+                "open_issues": 12,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1742
+                "stars": 1743,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1284,12 +1828,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization",
+                "homepage": "https://arxiv.org/abs/2401.18079",
                 "id": 750973875,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-13T11:19:28Z",
+                "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "compression",
+                  "efficient-inference",
+                  "efficient-model",
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "localllama",
+                  "localllm",
+                  "mistral",
+                  "model-compression",
+                  "natural-language-processing",
+                  "quantization",
+                  "small-models",
+                  "text-generation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1300,12 +1865,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+                "homepage": "https://arxiv.org/abs/2402.02750",
                 "id": 751957145,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-20T20:34:33Z",
+                "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 430
+                "stars": 431,
+                "topics": [
+                  "inference",
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "natural-language-processing",
+                  "quantization",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1316,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM",
+                "homepage": null,
                 "id": 712704426,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-12T17:21:28Z",
+                "open_issues": 6,
                 "owner": "opengear-project",
                 "repo": "GEAR",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1332,12 +1915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[HPCA 2026] A GPU-optimized system for efficient long-context LLMs decoding with low-bit KV cache.",
+                "homepage": null,
                 "id": 951536355,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-14T10:23:13Z",
+                "open_issues": 5,
                 "owner": "OpenBitSys",
                 "repo": "BitDecoding",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1348,12 +1936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QAQ: Quality Adaptive Quantization for LLM KV Cache",
+                "homepage": null,
                 "id": 731645310,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-27T05:06:12Z",
+                "open_issues": 4,
                 "owner": "ClubieDong",
                 "repo": "QAQ-KVCacheQuantization",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1364,12 +1957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation For PolarQuant",
+                "homepage": null,
                 "id": 986281194,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-02T02:34:54Z",
+                "open_issues": 1,
                 "owner": "ericshwu",
                 "repo": "PolarQuant",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1380,12 +1978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML2025] KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference",
+                "homepage": "https://openreview.net/forum?id=zDwipF6h06",
                 "id": 881250732,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-27T10:24:10Z",
+                "open_issues": 5,
                 "owner": "cmd2001",
                 "repo": "KVTuner",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1396,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[COLM 2024] SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models",
+                "homepage": null,
                 "id": 797639685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-05T07:26:45Z",
+                "open_issues": 0,
                 "owner": "cat538",
                 "repo": "SKVQ",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1412,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VidKV: Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models",
+                "homepage": null,
                 "id": 945477317,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-26T13:09:46Z",
+                "open_issues": 0,
                 "owner": "KD-TAO",
                 "repo": "VidKV",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1428,12 +2041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization\" (Findings of ACL 2025).",
+                "homepage": "https://arxiv.org/abs/2505.19586",
                 "id": 968519574,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-25T07:12:31Z",
+                "open_issues": 0,
                 "owner": "ydyhello",
                 "repo": "TailorKV",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1451,12 +2069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+                "homepage": "https://llmlingua.com/",
                 "id": 663368311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T18:59:13Z",
+                "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6609
+                "stars": 6610,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1467,12 +2090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+                "homepage": "https://llmlingua.com/",
                 "id": 663368311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T18:59:13Z",
+                "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6609
+                "stars": 6610,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1483,12 +2111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+                "homepage": "https://llmlingua.com/",
                 "id": 663368311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T18:59:13Z",
+                "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6609
+                "stars": 6610,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1506,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 938451102,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-16T21:18:24Z",
+                "open_issues": 4,
                 "owner": "UCSB-NLP-Chang",
                 "repo": "KVLink",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1529,12 +2167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding\"",
+                "homepage": "https://nvlabs.github.io/Fast-dLLM/",
                 "id": 991387454,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-30T10:38:26Z",
+                "open_issues": 32,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1084
+                "stars": 1084,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1545,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching\" (dLLM-Cache).",
+                "homepage": null,
                 "id": 988293592,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-01T07:50:21Z",
+                "open_issues": 6,
                 "owner": "maomaocun",
                 "repo": "dLLM-cache",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1561,12 +2209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'25] dKV-Cache: The Cache for Diffusion Language Models",
+                "homepage": null,
                 "id": 987394652,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-22T02:15:46Z",
+                "open_issues": 3,
                 "owner": "horseee",
                 "repo": "dKV-Cache",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             }
@@ -1588,12 +2241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'24 Spotlight, ICLR'25, ICML'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.",
+            "homepage": "https://aka.ms/MInference",
             "id": 804362023,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T08:04:38Z",
+            "open_issues": 93,
             "owner": "microsoft",
             "repo": "MInference",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         },
@@ -1604,12 +2262,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches. EMNLP Findings 2024",
+            "homepage": "https://arxiv.org/abs/2407.01527",
             "id": 857140017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-27T06:41:29Z",
+            "open_issues": 5,
             "owner": "henryzhongsc",
             "repo": "longctx_bench",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "emnlp",
+              "emnlp2024"
+            ]
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         },
@@ -1620,12 +2286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 881356524,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-07T18:23:25Z",
+            "open_issues": 1,
             "owner": "LLMkvsys",
             "repo": "rethink-kv-compression",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         },
@@ -1636,12 +2307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression（EMNLP 2025）",
+            "homepage": "https://arxiv.org/abs/2412.12706",
             "id": 912420670,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-15T04:16:18Z",
+            "open_issues": 0,
             "owner": "zhzihao",
             "repo": "QPruningKV",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
         }
@@ -1650,15 +2326,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:30:22.301Z",
+    "last_updated": "2026-08-29T04:39:55.456Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
+      "homepage": null,
       "id": 832441513,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-16T11:38:21Z",
+      "open_issues": 4,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 737
+      "stars": 737,
+      "topics": [
+        "awesome-list",
+        "large-language-models",
+        "papers"
+      ]
     },
     "original_repository_sha": "347fc988f565c2207f34ca49410fab03c51890af",
     "enhanced_repository": "enhansome/enhansome-Awesome-KV-Cache-Compression",
