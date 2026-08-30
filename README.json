@@ -105,7 +105,7 @@
             "open_issues": 1,
             "owner": "zcli-charlie",
             "repo": "Awesome-KV-Cache",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T09:42:46Z",
-                "open_issues": 595,
+                "last_commit": "2026-08-30T09:40:24Z",
+                "open_issues": 594,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11556,
+                "stars": 11568,
                 "topics": [
                   "amd",
                   "cuda",
@@ -261,7 +261,7 @@
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "kvcache",
                   "llm",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T09:42:46Z",
-                "open_issues": 595,
+                "last_commit": "2026-08-30T09:40:24Z",
+                "open_issues": 594,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11556,
+                "stars": 11568,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196,
+                "stars": 22197,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 89,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5038,
+                "stars": 5039,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1816,7 +1816,7 @@
                 "open_issues": 12,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6611,
+                "stars": 6609,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6611,
+                "stars": 6609,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6611,
+                "stars": 6609,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 32,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:42:11.260Z",
+    "last_updated": "2026-08-30T10:32:24.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2338,7 +2338,7 @@
       "open_issues": 4,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 737,
+      "stars": 736,
       "topics": [
         "awesome-list",
         "large-language-models",
