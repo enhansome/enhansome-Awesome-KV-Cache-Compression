@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T08:47:34Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1207,
+            "stars": 1208,
             "topics": [
               "inference",
               "kv-cache",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T09:39:44Z",
-                "open_issues": 698,
+                "last_commit": "2026-09-12T09:11:12Z",
+                "open_issues": 693,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11756,
+                "stars": 11768,
                 "topics": [
                   "amd",
                   "cuda",
@@ -507,7 +507,7 @@
                 "open_issues": 24,
                 "owner": "infly-ai",
                 "repo": "INF-MLLM",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "document-intelligence",
                   "mllm",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T09:39:44Z",
-                "open_issues": 698,
+                "last_commit": "2026-09-12T09:11:12Z",
+                "open_issues": 693,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11756,
+                "stars": 11768,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 685,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22212,
+                "stars": 22213,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 89,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5038,
+                "stars": 5037,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1738,7 +1738,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-20T03:25:09Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "shadowpa0327",
                 "repo": "Palu",
                 "stars": 162,
@@ -1813,7 +1813,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-03T12:22:26Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
                 "stars": 1767,
@@ -2078,7 +2078,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6646,
+                "stars": 6649,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6646,
+                "stars": 6649,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6646,
+                "stars": 6649,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:51:21.723Z",
+    "last_updated": "2026-09-12T09:27:35.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2338,7 +2338,7 @@
       "open_issues": 5,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 739,
+      "stars": 740,
       "topics": [
         "awesome-list",
         "large-language-models",
