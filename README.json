@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T09:32:20Z",
-                "open_issues": 688,
+                "last_commit": "2026-09-14T10:16:36Z",
+                "open_issues": 696,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11779,
+                "stars": 11796,
                 "topics": [
                   "amd",
                   "cuda",
@@ -240,7 +240,7 @@
                 "open_issues": 95,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -557,7 +557,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1344,7 +1344,7 @@
                 "id": 951733920,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-13T04:36:31Z",
+                "last_commit": "2026-09-14T06:52:15Z",
                 "open_issues": 1,
                 "owner": "Dirac-Notation",
                 "repo": "A2SF",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T09:32:20Z",
-                "open_issues": 688,
+                "last_commit": "2026-09-14T10:16:36Z",
+                "open_issues": 696,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11779,
+                "stars": 11796,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22213,
+                "stars": 22215,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 89,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5038,
+                "stars": 5039,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1816,7 +1816,7 @@
                 "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1767,
+                "stars": 1769,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1987,7 +1987,7 @@
                 "open_issues": 5,
                 "owner": "cmd2001",
                 "repo": "KVTuner",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6651,
+                "stars": 6653,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6651,
+                "stars": 6653,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6651,
+                "stars": 6653,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 33,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1087,
+                "stars": 1088,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2250,7 +2250,7 @@
             "open_issues": 95,
             "owner": "microsoft",
             "repo": "MInference",
-            "stars": 1228,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:23:20.153Z",
+    "last_updated": "2026-09-14T10:48:27.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
