@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T12:43:02Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1212,
+            "stars": 1214,
             "topics": [
               "inference",
               "kv-cache",
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T09:47:06Z",
-                "open_issues": 780,
+                "last_commit": "2026-09-24T09:50:05Z",
+                "open_issues": 755,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11890,
+                "stars": 11899,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7269,
+                "stars": 7268,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -286,7 +286,7 @@
                 "open_issues": 53,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 861,
+                "stars": 860,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -467,6 +467,32 @@
             },
             {
               "node_type": "item",
+              "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
+              "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "INF Tech's open-source MLLMs for SOTA visual-language understanding and advanced document intelligence.",
+                "homepage": "https://huggingface.co/infly",
+                "id": 728096122,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-24T03:31:22Z",
+                "open_issues": 26,
+                "owner": "infly-ai",
+                "repo": "INF-MLLM",
+                "stars": 255,
+                "topics": [
+                  "document-intelligence",
+                  "mllm",
+                  "multimodal-rl",
+                  "vlm"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
               "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
               "children": [],
@@ -487,32 +513,6 @@
                   "gpu-cpu",
                   "llm-inference",
                   "lsh-algorithm"
-                ]
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
-              "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "INF Tech's open-source MLLMs for SOTA visual-language understanding and advanced document intelligence.",
-                "homepage": "https://huggingface.co/infly",
-                "id": 728096122,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-16T08:25:56Z",
-                "open_issues": 26,
-                "owner": "infly-ai",
-                "repo": "INF-MLLM",
-                "stars": 254,
-                "topics": [
-                  "document-intelligence",
-                  "mllm",
-                  "multimodal-rl",
-                  "vlm"
                 ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -977,7 +977,7 @@
                 "open_issues": 0,
                 "owner": "Linking-ai",
                 "repo": "SCOPE",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "kv-cache-compression",
                   "kvcache",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T09:47:06Z",
-                "open_issues": 780,
+                "last_commit": "2026-09-24T09:50:05Z",
+                "open_issues": 755,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11890,
+                "stars": 11899,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1408,7 +1408,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "ToMe",
-                "stars": 1206,
+                "stars": 1205,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1566,7 +1566,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22228,
+                "stars": 22227,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1816,7 +1816,7 @@
                 "open_issues": 7,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1781,
+                "stars": 1785,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1874,7 +1874,7 @@
                 "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 433,
+                "stars": 432,
                 "topics": [
                   "inference",
                   "large-language-models",
@@ -2078,7 +2078,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6696,
+                "stars": 6698,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6696,
+                "stars": 6698,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6696,
+                "stars": 6698,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 34,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1090,
+                "stars": 1089,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:07:16.145Z",
+    "last_updated": "2026-09-24T10:13:45.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2335,7 +2335,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-16T11:38:21Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
       "stars": 744,
