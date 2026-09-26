@@ -50,7 +50,7 @@
             "open_issues": 4,
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "kv-cache",
               "kv-cache-compression",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T10:05:00Z",
-                "open_issues": 751,
+                "last_commit": "2026-09-26T09:55:51Z",
+                "open_issues": 749,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11907,
+                "stars": 11908,
                 "topics": [
                   "amd",
                   "cuda",
@@ -215,7 +215,7 @@
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1383,
+                "stars": 1384,
                 "topics": [
                   "kv-cache",
                   "kv-cache-compression",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T10:05:00Z",
-                "open_issues": 751,
+                "last_commit": "2026-09-26T09:55:51Z",
+                "open_issues": 749,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11907,
+                "stars": 11908,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1816,7 +1816,7 @@
                 "open_issues": 7,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1787,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2197,7 +2197,7 @@
                 "open_issues": 6,
                 "owner": "maomaocun",
                 "repo": "dLLM-cache",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:18:29.236Z",
+    "last_updated": "2026-09-26T09:57:45.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
