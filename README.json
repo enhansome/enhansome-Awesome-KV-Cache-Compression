@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "inference",
               "kv-cache",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T09:55:51Z",
-                "open_issues": 749,
+                "last_commit": "2026-09-27T09:52:44Z",
+                "open_issues": 754,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11908,
+                "stars": 11918,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7267,
+                "stars": 7268,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -187,7 +187,7 @@
                 "open_issues": 137,
                 "owner": "PaddlePaddle",
                 "repo": "Research",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "computer-vision",
                   "data-mining",
@@ -467,6 +467,32 @@
             },
             {
               "node_type": "item",
+              "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
+              "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation",
+                "homepage": null,
+                "id": 876363500,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-12-16T18:30:26Z",
+                "open_issues": 13,
+                "owner": "Infini-AI-Lab",
+                "repo": "MagicPIG",
+                "stars": 256,
+                "topics": [
+                  "decoding",
+                  "gpu-cpu",
+                  "llm-inference",
+                  "lsh-algorithm"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
               "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
               "children": [],
@@ -487,32 +513,6 @@
                   "mllm",
                   "multimodal-rl",
                   "vlm"
-                ]
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
-              "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation",
-                "homepage": null,
-                "id": 876363500,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-12-16T18:30:26Z",
-                "open_issues": 13,
-                "owner": "Infini-AI-Lab",
-                "repo": "MagicPIG",
-                "stars": 255,
-                "topics": [
-                  "decoding",
-                  "gpu-cpu",
-                  "llm-inference",
-                  "lsh-algorithm"
                 ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T09:55:51Z",
-                "open_issues": 749,
+                "last_commit": "2026-09-27T09:52:44Z",
+                "open_issues": 754,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11908,
+                "stars": 11918,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22228,
+                "stars": 22226,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2078,7 +2078,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6704,
+                "stars": 6706,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6704,
+                "stars": 6706,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6704,
+                "stars": 6706,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:57:45.063Z",
+    "last_updated": "2026-09-27T10:37:25.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
