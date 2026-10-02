@@ -15,11 +15,11 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T12:01:26Z",
+            "last_commit": "2026-10-01T17:17:20Z",
             "open_issues": 10,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1222,
+            "stars": 1224,
             "topics": [
               "inference",
               "kv-cache",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T09:33:45Z",
-                "open_issues": 726,
+                "last_commit": "2026-10-02T10:06:15Z",
+                "open_issues": 735,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11950,
+                "stars": 11951,
                 "topics": [
                   "amd",
                   "cuda",
@@ -257,7 +257,7 @@
                 "id": 992765151,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-20T04:54:05Z",
+                "last_commit": "2026-10-02T00:11:38Z",
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
@@ -454,7 +454,7 @@
                 "open_issues": 8,
                 "owner": "Gumpest",
                 "repo": "SparseVLMs",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "efficiency",
                   "sparsevlm",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T09:33:45Z",
-                "open_issues": 726,
+                "last_commit": "2026-10-02T10:06:15Z",
+                "open_issues": 735,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11950,
+                "stars": 11951,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22227,
+                "stars": 22230,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2078,7 +2078,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6719,
+                "stars": 6721,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6719,
+                "stars": 6721,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 121,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6719,
+                "stars": 6721,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:41:39.919Z",
+    "last_updated": "2026-10-02T11:11:15.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
