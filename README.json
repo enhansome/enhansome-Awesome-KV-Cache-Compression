@@ -130,8 +130,8 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:33:53Z",
-                "open_issues": 735,
+                "last_commit": "2026-10-03T10:02:25Z",
+                "open_issues": 737,
                 "owner": "LMCache",
                 "repo": "LMCache",
                 "stars": 11947,
@@ -258,7 +258,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T00:11:38Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
                 "stars": 1214,
@@ -1372,8 +1372,8 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:33:53Z",
-                "open_issues": 735,
+                "last_commit": "2026-10-03T10:02:25Z",
+                "open_issues": 737,
                 "owner": "LMCache",
                 "repo": "LMCache",
                 "stars": 11947,
@@ -1566,7 +1566,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22227,
+                "stars": 22226,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1816,7 +1816,7 @@
                 "open_issues": 7,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1788,
+                "stars": 1787,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:06.553Z",
+    "last_updated": "2026-10-03T10:29:21.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2338,7 +2338,7 @@
       "open_issues": 6,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 744,
+      "stars": 745,
       "topics": [
         "awesome-list",
         "large-language-models",
