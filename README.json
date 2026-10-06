@@ -15,7 +15,7 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:30:49Z",
+            "last_commit": "2026-10-06T11:50:42Z",
             "open_issues": 7,
             "owner": "NVIDIA",
             "repo": "kvpress",
@@ -131,10 +131,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T09:58:54Z",
-                "open_issues": 753,
+                "open_issues": 755,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11961,
+                "stars": 11962,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1373,10 +1373,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T09:58:54Z",
-                "open_issues": 753,
+                "open_issues": 755,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11961,
+                "stars": 11962,
                 "topics": [
                   "amd",
                   "cuda",
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:26.170Z",
+    "last_updated": "2026-10-06T12:06:21.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
