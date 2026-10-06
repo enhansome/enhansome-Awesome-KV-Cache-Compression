@@ -15,8 +15,8 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:17:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-06T09:30:49Z",
+            "open_issues": 7,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1224,
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T10:12:27Z",
-                "open_issues": 750,
+                "last_commit": "2026-10-06T09:58:54Z",
+                "open_issues": 753,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11956,
+                "stars": 11961,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7265,
+                "stars": 7263,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -258,7 +258,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T00:11:38Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
                 "stars": 1214,
@@ -381,7 +381,7 @@
                 "open_issues": 6,
                 "owner": "mit-han-lab",
                 "repo": "Quest",
-                "stars": 408,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1293,9 +1293,9 @@
                 "description": "RestoreKV: Recovering full-cache behavior under aggressive query-agnostic KV cache eviction.",
                 "homepage": "https://paper.pnu-cvsp.com/RestoreKV/",
                 "id": 1320180300,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-10T00:02:26Z",
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T06:52:52Z",
                 "open_issues": 0,
                 "owner": "cvsp-lab",
                 "repo": "RestoreKV",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T10:12:27Z",
-                "open_issues": 750,
+                "last_commit": "2026-10-06T09:58:54Z",
+                "open_issues": 753,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11956,
+                "stars": 11961,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 688,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22226,
+                "stars": 22227,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1816,7 +1816,7 @@
                 "open_issues": 7,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1788,
+                "stars": 1790,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2075,10 +2075,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6728,
+                "stars": 6729,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2096,10 +2096,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6728,
+                "stars": 6729,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2117,10 +2117,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6728,
+                "stars": 6729,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:24:03.229Z",
+    "last_updated": "2026-10-06T10:35:26.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
