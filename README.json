@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:10:33Z",
-                "open_issues": 758,
+                "last_commit": "2026-10-08T11:08:06Z",
+                "open_issues": 762,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11967,
+                "stars": 11977,
                 "topics": [
                   "amd",
                   "cuda",
@@ -237,7 +237,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T13:47:40Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "microsoft",
                 "repo": "MInference",
                 "stars": 1228,
@@ -258,7 +258,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T00:11:38Z",
-                "open_issues": 9,
+                "open_issues": 16,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
                 "stars": 1214,
@@ -332,7 +332,7 @@
                 "open_issues": 15,
                 "owner": "mit-han-lab",
                 "repo": "duo-attention",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -381,7 +381,7 @@
                 "open_issues": 6,
                 "owner": "mit-han-lab",
                 "repo": "Quest",
-                "stars": 409,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -467,6 +467,32 @@
             },
             {
               "node_type": "item",
+              "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
+              "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation",
+                "homepage": null,
+                "id": 876363500,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-12-16T18:30:26Z",
+                "open_issues": 13,
+                "owner": "Infini-AI-Lab",
+                "repo": "MagicPIG",
+                "stars": 257,
+                "topics": [
+                  "decoding",
+                  "gpu-cpu",
+                  "llm-inference",
+                  "lsh-algorithm"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
               "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
               "children": [],
@@ -487,32 +513,6 @@
                   "mllm",
                   "multimodal-rl",
                   "vlm"
-                ]
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MagicPIG: LSH Sampling for Efficient LLM Generation.",
-              "description": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation",
-                "homepage": null,
-                "id": 876363500,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-12-16T18:30:26Z",
-                "open_issues": 13,
-                "owner": "Infini-AI-Lab",
-                "repo": "MagicPIG",
-                "stars": 256,
-                "topics": [
-                  "decoding",
-                  "gpu-cpu",
-                  "llm-inference",
-                  "lsh-algorithm"
                 ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1009,27 +1009,6 @@
             },
             {
               "node_type": "item",
-              "title": "Sirius: Contextual Sparsity with Correction for Efficient LLMs.",
-              "description": "Yang Zhou, Zhuoming Chen, Zhaozhuo Xu, Victoria Lin, Beidi Chen. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Sirius, an efficient correction mechanism, which significantly boosts Contextual Sparsity models on reasoning tasks while maintaining its efficiency gain.",
-                "homepage": null,
-                "id": 849553688,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-09-10T20:15:07Z",
-                "open_issues": 0,
-                "owner": "Infini-AI-Lab",
-                "repo": "Sirius",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
               "title": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference.",
               "description": "Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang. NAACL 2025.",
               "children": [],
@@ -1044,6 +1023,27 @@
                 "open_issues": 3,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "MEDA",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sirius: Contextual Sparsity with Correction for Efficient LLMs.",
+              "description": "Yang Zhou, Zhuoming Chen, Zhaozhuo Xu, Victoria Lin, Beidi Chen. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sirius, an efficient correction mechanism, which significantly boosts Contextual Sparsity models on reasoning tasks while maintaining its efficiency gain.",
+                "homepage": null,
+                "id": 849553688,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-09-10T20:15:07Z",
+                "open_issues": 0,
+                "owner": "Infini-AI-Lab",
+                "repo": "Sirius",
                 "stars": 22,
                 "topics": []
               },
@@ -1198,6 +1198,34 @@
             },
             {
               "node_type": "item",
+              "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.",
+              "description": "Changwoo Baek, Seungjun Shin, Kyeongbo Kong. Arxiv 2026.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RestoreKV: Recovering full-cache behavior under aggressive query-agnostic KV cache eviction.",
+                "homepage": "https://paper.pnu-cvsp.com/RestoreKV/",
+                "id": 1320180300,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T06:52:52Z",
+                "open_issues": 0,
+                "owner": "cvsp-lab",
+                "repo": "RestoreKV",
+                "stars": 9,
+                "topics": [
+                  "kvcache",
+                  "kvcache-compression",
+                  "kvpress",
+                  "llm",
+                  "longcontext",
+                  "nlp"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "CItruS: Chunked Instruction-aware State Eviction for Long Sequence Modeling.",
               "description": "Yu Bai, Xiyuan Zou, Heyan Huang, Sanxing Chen, Marc-Antoine Rondeau, Yang Gao, Jackie Chi Kit Cheung. EMNLP 2024.",
               "children": [],
@@ -1235,34 +1263,6 @@
                 "repo": "kv-distill",
                 "stars": 8,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.",
-              "description": "Changwoo Baek, Seungjun Shin, Kyeongbo Kong. Arxiv 2026.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RestoreKV: Recovering full-cache behavior under aggressive query-agnostic KV cache eviction.",
-                "homepage": "https://paper.pnu-cvsp.com/RestoreKV/",
-                "id": 1320180300,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-06T06:52:52Z",
-                "open_issues": 0,
-                "owner": "cvsp-lab",
-                "repo": "RestoreKV",
-                "stars": 8,
-                "topics": [
-                  "kvcache",
-                  "kvcache-compression",
-                  "kvpress",
-                  "llm",
-                  "longcontext",
-                  "nlp"
-                ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:10:33Z",
-                "open_issues": 758,
+                "last_commit": "2026-10-08T11:08:06Z",
+                "open_issues": 762,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11967,
+                "stars": 11977,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1816,7 +1816,7 @@
                 "open_issues": 7,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1790,
+                "stars": 1794,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2075,10 +2075,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 122,
+                "open_issues": 123,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6733,
+                "stars": 6739,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2096,10 +2096,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 122,
+                "open_issues": 123,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6733,
+                "stars": 6739,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2117,10 +2117,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 122,
+                "open_issues": 123,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6733,
+                "stars": 6739,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2247,7 +2247,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-10T13:47:40Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "microsoft",
             "repo": "MInference",
             "stars": 1228,
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:51:57.801Z",
+    "last_updated": "2026-10-08T12:07:05.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2338,7 +2338,7 @@
       "open_issues": 6,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 745,
+      "stars": 746,
       "topics": [
         "awesome-list",
         "large-language-models",
