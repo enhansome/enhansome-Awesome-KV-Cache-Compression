@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T11:08:06Z",
-                "open_issues": 762,
+                "last_commit": "2026-10-09T11:52:11Z",
+                "open_issues": 766,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11977,
+                "stars": 11985,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7265,
+                "stars": 7266,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -240,7 +240,7 @@
                 "open_issues": 97,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -257,8 +257,8 @@
                 "id": 992765151,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T00:11:38Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-09T05:41:38Z",
+                "open_issues": 14,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
                 "stars": 1214,
@@ -307,7 +307,7 @@
                 "open_issues": 3,
                 "owner": "HKUDS",
                 "repo": "SepLLM",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "inference-speed",
                   "large-language-models",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T11:08:06Z",
-                "open_issues": 762,
+                "last_commit": "2026-10-09T11:52:11Z",
+                "open_issues": 766,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11977,
+                "stars": 11985,
                 "topics": [
                   "amd",
                   "cuda",
@@ -2075,10 +2075,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6739,
+                "stars": 6741,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2096,10 +2096,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6739,
+                "stars": 6741,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2117,10 +2117,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:37:23Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6739,
+                "stars": 6741,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2250,7 +2250,7 @@
             "open_issues": 97,
             "owner": "microsoft",
             "repo": "MInference",
-            "stars": 1228,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:07:05.794Z",
+    "last_updated": "2026-10-09T11:58:48.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
