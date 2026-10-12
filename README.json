@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1226,
+            "stars": 1228,
             "topics": [
               "inference",
               "kv-cache",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T09:26:38Z",
-                "open_issues": 813,
+                "last_commit": "2026-10-12T13:07:27Z",
+                "open_issues": 820,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11999,
+                "stars": 12006,
                 "topics": [
                   "amd",
                   "cuda",
@@ -332,7 +332,7 @@
                 "open_issues": 15,
                 "owner": "mit-han-lab",
                 "repo": "duo-attention",
-                "stars": 541,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -425,7 +425,7 @@
                 "open_issues": 8,
                 "owner": "ByteDance-Seed",
                 "repo": "ShadowKV",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "cpu-offload",
                   "high-throughput",
@@ -454,13 +454,39 @@
                 "open_issues": 8,
                 "owner": "Gumpest",
                 "repo": "SparseVLMs",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "efficiency",
                   "sparsevlm",
                   "sparsevlm-plus",
                   "sparsification",
                   "vision-language-model"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
+              "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "INF Tech's open-source MLLMs for SOTA visual-language understanding and advanced document intelligence.",
+                "homepage": "https://huggingface.co/infly",
+                "id": 728096122,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-10T11:07:39Z",
+                "open_issues": 25,
+                "owner": "infly-ai",
+                "repo": "INF-MLLM",
+                "stars": 257,
+                "topics": [
+                  "document-intelligence",
+                  "mllm",
+                  "multimodal-rl",
+                  "vlm"
                 ]
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -493,32 +519,6 @@
             },
             {
               "node_type": "item",
-              "title": "Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU.",
-              "description": "Zhenyu Ning, Jieru Zhao, Qihao Jin, Wenchao Ding, Minyi Guo. Arxiv 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "INF Tech's open-source MLLMs for SOTA visual-language understanding and advanced document intelligence.",
-                "homepage": "https://huggingface.co/infly",
-                "id": 728096122,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-10T11:07:39Z",
-                "open_issues": 25,
-                "owner": "infly-ai",
-                "repo": "INF-MLLM",
-                "stars": 256,
-                "topics": [
-                  "document-intelligence",
-                  "mllm",
-                  "multimodal-rl",
-                  "vlm"
-                ]
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
               "title": "Retrieval Head Mechanistically Explains Long-Context Factuality.",
               "description": "Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu. Arxiv 2024.",
               "children": [],
@@ -533,7 +533,7 @@
                 "open_issues": 8,
                 "owner": "nightdessert",
                 "repo": "Retrieval_Head",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "large-language-models",
                   "long-context"
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T09:26:38Z",
-                "open_issues": 813,
+                "last_commit": "2026-10-12T13:07:27Z",
+                "open_issues": 820,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 11999,
+                "stars": 12006,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 688,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22229,
+                "stars": 22230,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 90,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5042,
+                "stars": 5043,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1816,7 +1816,7 @@
                 "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1793,
+                "stars": 1795,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1837,7 +1837,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -2176,7 +2176,7 @@
                 "open_issues": 34,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1095,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:28:48.344Z",
+    "last_updated": "2026-10-12T13:19:04.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
