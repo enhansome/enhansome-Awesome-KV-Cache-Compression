@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T10:11:39Z",
-                "open_issues": 887,
+                "last_commit": "2026-10-22T10:09:28Z",
+                "open_issues": 854,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12138,
+                "stars": 12148,
                 "topics": [
                   "amd",
                   "cuda",
@@ -286,7 +286,7 @@
                 "open_issues": 55,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -557,7 +557,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 226,
+                "stars": 227,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T10:11:39Z",
-                "open_issues": 887,
+                "last_commit": "2026-10-22T10:09:28Z",
+                "open_issues": 854,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12138,
+                "stars": 12148,
                 "topics": [
                   "amd",
                   "cuda",
@@ -2078,7 +2078,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6766,
+                "stars": 6769,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6766,
+                "stars": 6769,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6766,
+                "stars": 6769,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2148,7 +2148,7 @@
                 "open_issues": 4,
                 "owner": "UCSB-NLP-Chang",
                 "repo": "KVLink",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:19:47.554Z",
+    "last_updated": "2026-10-22T10:19:58.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
