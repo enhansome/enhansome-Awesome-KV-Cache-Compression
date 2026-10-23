@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LICENSE](https://img.shields.io/github/license/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression/blob/main/LICENSE)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,596 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,363 | 🐛 105 | 📅 2026-09-02
 [![commit](https://img.shields.io/github/last-commit/October2001/Awesome-KV-Cache-Compression?color=blue)](https://github.com/October2001/Awesome-KV-Cache-Compression/commits/main)
 [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/October2001/Awesome-KV-Cache-Compression/pulls)
 [![GitHub Repo stars](https://img.shields.io/github/stars/October2001/Awesome-KV-Cache-Compression)](https://github.com/October2001/Awesome-KV-Cache-Compression)
@@ -26,11 +26,11 @@ This repository is constantly updating 🤗 ...
 
 ## ⚙️ Project
 
-1. [**kvpress.**](https://github.com/NVIDIA/kvpress) ⭐ 1,235 | 🐛 12 | 🌐 Python | 📅 2026-10-21 *NVIDIA.* [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/kvpress)](https://github.com/NVIDIA/kvpress) ⭐ 1,235 | 🐛 12 | 🌐 Python | 📅 2026-10-21
+1. [**kvpress.**](https://github.com/NVIDIA/kvpress) ⭐ 1,236 | 🐛 12 | 🌐 Python | 📅 2026-10-21 *NVIDIA.* [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/kvpress)](https://github.com/NVIDIA/kvpress) ⭐ 1,236 | 🐛 12 | 🌐 Python | 📅 2026-10-21
 
 * This repository implements multiple KV cache pruning methods and benchmarks using 🤗 transformers.
 
-2. [**KVCache-Factory.**](https://github.com/Zefan-Cai/KVCache-Factory) ⭐ 1,387 | 🐛 4 | 🌐 Python | 📅 2026-08-13 [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory)](https://github.com/Zefan-Cai/KVCache-Factory) ⭐ 1,387 | 🐛 4 | 🌐 Python | 📅 2026-08-13
+2. [**KVCache-Factory.**](https://github.com/Zefan-Cai/KVCache-Factory) ⭐ 1,388 | 🐛 4 | 🌐 Python | 📅 2026-08-13 [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory)](https://github.com/Zefan-Cai/KVCache-Factory) ⭐ 1,388 | 🐛 4 | 🌐 Python | 📅 2026-08-13
 
 * Unified KV Cache Compression Methods for Auto-Regressive Models.
 
@@ -50,13 +50,13 @@ This repository is constantly updating 🤗 ...
 
 ### 1️⃣ Pruning / Evicting / Sparse
 
-1. [**CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.**](https://arxiv.org/abs/2310.07240) *Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang.* ACM SIGCOMM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 12,148 | 🐛 854 | 🌐 Python | 📅 2026-10-22
+1. [**CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving.**](https://arxiv.org/abs/2310.07240) *Yuhan Liu, Hanchen Li, Yihua Cheng, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang.* ACM SIGCOMM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 12,153 | 🐛 863 | 🌐 Python | 📅 2026-10-23
 
 2. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/abs/2309.17453) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* ICLR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,272 | 🐛 50 | 🌐 Python | 📅 2024-07-11
 
 3. [**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time.**](https://arxiv.org/abs/2408.03675) *Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/Research)](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL) ⭐ 1,770 | 🐛 137 | 🌐 Python | 📅 2024-08-16
 
-4. [**PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.**](https://arxiv.org/abs/2406.02069) *Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/PyramidKV)](https://github.com/Zefan-Cai/PyramidKV) ⭐ 1,387 | 🐛 4 | 🌐 Python | 📅 2026-08-13
+4. [**PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.**](https://arxiv.org/abs/2406.02069) *Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/PyramidKV)](https://github.com/Zefan-Cai/PyramidKV) ⭐ 1,388 | 🐛 4 | 🌐 Python | 📅 2026-08-13
 
 5. [**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.**](https://arxiv.org/abs/2407.02490) *Huiqiang Jiang, Yucheng Li, Chengruidong Zhang, Qianhui Wu, Xufang Luo, Surin Ahn, Zhenhua Han, Amir H. Abdi, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference) ⭐ 1,229 | 🐛 99 | 🌐 Python | 📅 2026-10-10
 
@@ -70,7 +70,7 @@ This repository is constantly updating 🤗 ...
 
 10. [**H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2306.14048) *Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen.* NeurIPS 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/FMInference/H2O)](https://github.com/FMInference/H2O) ⭐ 536 | 🐛 36 | 🌐 Python | 📅 2024-08-01
 
-11. [**Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2406.10774) *Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, Baris Kasikci, Song Han.* ICML 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/Quest)](https://github.com/mit-han-lab/Quest) ⭐ 412 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10
+11. [**Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference.**](https://arxiv.org/abs/2406.10774) *Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, Baris Kasikci, Song Han.* ICML 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/Quest)](https://github.com/mit-han-lab/Quest) ⭐ 411 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10
 
 12. [**SnapKV: LLM Knows What You are Looking for Before Generation.**](https://arxiv.org/abs/2404.14469) *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FasterDecoding/SnapKV)](https://github.com/FasterDecoding/SnapKV) ⭐ 336 | 🐛 19 | 🌐 Python | 📅 2025-07-10
 
@@ -244,7 +244,7 @@ This repository is constantly updating 🤗 ...
 
 ### 2️⃣ Merging
 
-1. [**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.**](https://arxiv.org/abs/2405.16444) *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang.* EuroSys 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 12,148 | 🐛 854 | 🌐 Python | 📅 2026-10-22
+1. [**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.**](https://arxiv.org/abs/2405.16444) *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang.* EuroSys 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache) ⭐ 12,153 | 🐛 863 | 🌐 Python | 📅 2026-10-23
 
 2. [**Token Merging: Your ViT But Faster.**](https://arxiv.org/abs/2210.09461) *Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman.* ICLR 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/ToMe)](https://github.com/facebookresearch/ToMe) ⚠️ Archived
 
@@ -268,7 +268,7 @@ This repository is constantly updating 🤗 ...
 
 ### 3️⃣ Cross-Layer
 
-1. [**You Only Cache Once: Decoder-Decoder Architectures for Language Models.**](https://arxiv.org/abs/2405.05254) *Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm)](https://github.com/microsoft/unilm/tree/master/YOCO) ⭐ 22,237 | 🐛 689 | 🌐 Python | 📅 2026-09-21
+1. [**You Only Cache Once: Decoder-Decoder Architectures for Language Models.**](https://arxiv.org/abs/2405.05254) *Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm)](https://github.com/microsoft/unilm/tree/master/YOCO) ⭐ 22,236 | 🐛 689 | 🌐 Python | 📅 2026-09-21
 
 2. [**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation.**](https://arxiv.org/abs/2410.03960) *Aurick Qiao, Zhewei Yao, Samyam Rajbhandari, Yuxiong He.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/snowflakedb/arctictraining)](https://github.com/snowflakedb/arctictraining) ⭐ 292 | 🐛 61 | 🌐 Python | 📅 2026-10-06
 
@@ -310,7 +310,7 @@ This repository is constantly updating 🤗 ...
 
 ### 5️⃣ Quantization
 
-1. [**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.**](https://arxiv.org/abs/2504.19874) *Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni.* ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/0xSero/turboquant)](https://github.com/0xSero/turboquant) ⭐ 1,801 | 🐛 8 | 🌐 Python | 📅 2026-09-03
+1. [**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.**](https://arxiv.org/abs/2504.19874) *Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni.* ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/0xSero/turboquant)](https://github.com/0xSero/turboquant) ⭐ 1,806 | 🐛 8 | 🌐 Python | 📅 2026-09-03
 
 2. [**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.**](https://arxiv.org/abs/2401.18079) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SqueezeAILab/KVQuant)](https://github.com/SqueezeAILab/KVQuant) ⭐ 437 | 🐛 18 | 🌐 Python | 📅 2024-08-13
 
@@ -367,7 +367,7 @@ This repository is constantly updating 🤗 ...
 
 ### 8️⃣ Non-Autoregressive
 
-1. [**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding.**](https://arxiv.org/abs/2505.22618) *Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/Fast-dLLM)](https://github.com/NVlabs/Fast-dLLM) ⭐ 1,106 | 🐛 35 | 🌐 Python | 📅 2026-05-30
+1. [**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding.**](https://arxiv.org/abs/2505.22618) *Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/Fast-dLLM)](https://github.com/NVlabs/Fast-dLLM) ⭐ 1,107 | 🐛 35 | 🌐 Python | 📅 2026-05-30
 
 2. [**dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching.**](https://www.arxiv.org/abs/2506.06295) *Zhiyuan Liu, Yicun Yang, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache)](https://github.com/maomaocun/dLLM-cache) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-05-01
 
@@ -389,4 +389,4 @@ This repository is constantly updating 🤗 ...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
