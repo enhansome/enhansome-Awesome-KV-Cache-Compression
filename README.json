@@ -50,7 +50,7 @@
             "open_issues": 4,
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "kv-cache",
               "kv-cache-compression",
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "llm",
               "survey"
@@ -105,7 +105,7 @@
             "open_issues": 1,
             "owner": "zcli-charlie",
             "repo": "Awesome-KV-Cache",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T08:24:11Z",
+                "last_commit": "2026-10-25T09:51:09Z",
                 "open_issues": 876,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12154,
+                "stars": 12160,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7272,
+                "stars": 7273,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -215,7 +215,7 @@
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "kv-cache",
                   "kv-cache-compression",
@@ -240,7 +240,7 @@
                 "open_issues": 99,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -353,7 +353,7 @@
                 "open_issues": 36,
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "gpt-3",
                   "heavy-hitters",
@@ -627,7 +627,7 @@
                 "open_issues": 0,
                 "owner": "FFY0",
                 "repo": "AdaKV",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -648,7 +648,7 @@
                 "open_issues": 5,
                 "owner": "schwartz-lab-NLP",
                 "repo": "TOVA",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 1,
                 "owner": "dhjoo98",
                 "repo": "mustafar",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T08:24:11Z",
+                "last_commit": "2026-10-25T09:51:09Z",
                 "open_issues": 876,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12154,
+                "stars": 12160,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22235,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 90,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5047,
+                "stars": 5049,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1823,6 +1823,35 @@
             },
             {
               "node_type": "item",
+              "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache.",
+              "description": "Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu. ICML 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+                "homepage": "https://arxiv.org/abs/2402.02750",
+                "id": 751957145,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-20T20:34:33Z",
+                "open_issues": 7,
+                "owner": "jy-yuan",
+                "repo": "KIVI",
+                "stars": 437,
+                "topics": [
+                  "inference",
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "natural-language-processing",
+                  "quantization",
+                  "transformer"
+                ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.",
               "description": "Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami. NeurIPS 2024.",
               "children": [],
@@ -1853,35 +1882,6 @@
                   "quantization",
                   "small-models",
                   "text-generation",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache.",
-              "description": "Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu. ICML 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
-                "homepage": "https://arxiv.org/abs/2402.02750",
-                "id": 751957145,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-20T20:34:33Z",
-                "open_issues": 7,
-                "owner": "jy-yuan",
-                "repo": "KIVI",
-                "stars": 436,
-                "topics": [
-                  "inference",
-                  "large-language-models",
-                  "llama",
-                  "llm",
-                  "natural-language-processing",
-                  "quantization",
                   "transformer"
                 ]
               },
@@ -2078,7 +2078,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6770,
+                "stars": 6771,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6770,
+                "stars": 6771,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6770,
+                "stars": 6771,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2250,7 +2250,7 @@
             "open_issues": 99,
             "owner": "microsoft",
             "repo": "MInference",
-            "stars": 1229,
+            "stars": 1230,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:38:14.839Z",
+    "last_updated": "2026-10-25T09:55:38.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
