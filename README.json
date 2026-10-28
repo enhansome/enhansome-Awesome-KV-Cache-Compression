@@ -15,8 +15,8 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T09:27:03Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-27T12:56:37Z",
+            "open_issues": 12,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1239,
@@ -50,7 +50,7 @@
             "open_issues": 4,
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "kv-cache",
               "kv-cache-compression",
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T10:14:24Z",
-                "open_issues": 905,
+                "last_commit": "2026-10-28T10:33:38Z",
+                "open_issues": 914,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12180,
+                "stars": 12199,
                 "topics": [
                   "amd",
                   "cuda",
@@ -215,7 +215,7 @@
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": [
                   "kv-cache",
                   "kv-cache-compression",
@@ -332,7 +332,7 @@
                 "open_issues": 15,
                 "owner": "mit-han-lab",
                 "repo": "duo-attention",
-                "stars": 544,
+                "stars": 545,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -353,7 +353,7 @@
                 "open_issues": 36,
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "gpt-3",
                   "heavy-hitters",
@@ -533,7 +533,7 @@
                 "open_issues": 8,
                 "owner": "nightdessert",
                 "repo": "Retrieval_Head",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "large-language-models",
                   "long-context"
@@ -557,7 +557,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T10:14:24Z",
-                "open_issues": 905,
+                "last_commit": "2026-10-28T10:33:38Z",
+                "open_issues": 914,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12180,
+                "stars": 12199,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22237,
+                "stars": 22236,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1720,7 +1720,7 @@
                 "open_issues": 90,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5051,
+                "stars": 5050,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1741,7 +1741,7 @@
                 "open_issues": 8,
                 "owner": "shadowpa0327",
                 "repo": "Palu",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "deepseek",
                   "kv-cache-compression",
@@ -1816,7 +1816,7 @@
                 "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1924,7 +1924,7 @@
                 "open_issues": 5,
                 "owner": "OpenBitSys",
                 "repo": "BitDecoding",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6773,
+                "stars": 6779,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6773,
+                "stars": 6779,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6773,
+                "stars": 6779,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:42:37.806Z",
+    "last_updated": "2026-10-28T11:26:47.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
