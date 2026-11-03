@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T12:56:37Z",
-            "open_issues": 14,
+            "open_issues": 11,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1241,
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T12:49:05Z",
-                "open_issues": 907,
+                "last_commit": "2026-11-03T11:36:36Z",
+                "open_issues": 908,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12260,
+                "stars": 12268,
                 "topics": [
                   "amd",
                   "cuda",
@@ -237,7 +237,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-10T03:06:32Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "MInference",
                 "stars": 1231,
@@ -353,7 +353,7 @@
                 "open_issues": 36,
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "gpt-3",
                   "heavy-hitters",
@@ -1156,27 +1156,6 @@
             },
             {
               "node_type": "item",
-              "title": "Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs.",
-              "description": "Ravi Ghadia, Avinash Kumar, Gaurav Jain, Prashant Nair, Poulami Das. ICML 2025.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Constant-Sized KV Caches for Extended Responses in LLMs",
-                "homepage": null,
-                "id": 945532239,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-18T04:05:59Z",
-                "open_issues": 0,
-                "owner": "ghadiaravi13",
-                "repo": "MorphKV",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:30:22.301Z"
-            },
-            {
-              "node_type": "item",
               "title": "Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.",
               "description": "Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari. Arxiv 2025.",
               "children": [],
@@ -1188,10 +1167,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-06T00:23:01Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "dhjoo98",
                 "repo": "mustafar",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1212,7 +1191,7 @@
                 "open_issues": 0,
                 "owner": "cvsp-lab",
                 "repo": "RestoreKV",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "kvcache",
                   "kvcache-compression",
@@ -1221,6 +1200,27 @@
                   "longcontext",
                   "nlp"
                 ]
+              },
+              "first_seen": "2026-08-28T17:30:22.301Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dialogue Without Limits: Constant-Sized KV Caches for Extended Responses in LLMs.",
+              "description": "Ravi Ghadia, Avinash Kumar, Gaurav Jain, Prashant Nair, Poulami Das. ICML 2025.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Constant-Sized KV Caches for Extended Responses in LLMs",
+                "homepage": null,
+                "id": 945532239,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-18T04:05:59Z",
+                "open_issues": 0,
+                "owner": "ghadiaravi13",
+                "repo": "MorphKV",
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
             },
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T12:49:05Z",
-                "open_issues": 907,
+                "last_commit": "2026-11-03T11:36:36Z",
+                "open_issues": 908,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12260,
+                "stars": 12268,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1720,7 +1720,7 @@
                 "open_issues": 90,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5053,
+                "stars": 5054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2078,7 +2078,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6796,
+                "stars": 6799,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6796,
+                "stars": 6799,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 125,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6796,
+                "stars": 6799,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 35,
                 "owner": "NVlabs",
                 "repo": "Fast-dLLM",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2247,7 +2247,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-10T03:06:32Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "microsoft",
             "repo": "MInference",
             "stars": 1231,
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:40:10.543Z",
+    "last_updated": "2026-11-03T12:53:19.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
