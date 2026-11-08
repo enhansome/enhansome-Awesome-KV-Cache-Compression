@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:39:56Z",
-            "open_issues": 20,
+            "open_issues": 28,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1245,
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T11:20:08Z",
-                "open_issues": 939,
+                "last_commit": "2026-11-08T11:49:42Z",
+                "open_issues": 955,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12304,
+                "stars": 12309,
                 "topics": [
                   "amd",
                   "cuda",
@@ -166,7 +166,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7276,
+                "stars": 7277,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -257,8 +257,8 @@
                 "id": 992765151,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-18T23:33:11Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-07T22:33:09Z",
+                "open_issues": 13,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
                 "stars": 1222,
@@ -353,7 +353,7 @@
                 "open_issues": 36,
                 "owner": "FMInference",
                 "repo": "H2O",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "gpt-3",
                   "heavy-hitters",
@@ -402,7 +402,7 @@
                 "open_issues": 19,
                 "owner": "FasterDecoding",
                 "repo": "SnapKV",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "long-context-modeling"
                 ]
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T11:20:08Z",
-                "open_issues": 939,
+                "last_commit": "2026-11-08T11:49:42Z",
+                "open_issues": 955,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12304,
+                "stars": 12309,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22240,
+                "stars": 22242,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2078,7 +2078,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6807,
+                "stars": 6809,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6807,
+                "stars": 6809,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6807,
+                "stars": 6809,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:49:28.886Z",
+    "last_updated": "2026-11-08T12:01:17.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
