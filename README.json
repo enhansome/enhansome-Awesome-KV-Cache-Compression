@@ -15,11 +15,11 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T09:39:56Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-09T13:58:53Z",
+            "open_issues": 25,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1245,
+            "stars": 1247,
             "topics": [
               "inference",
               "kv-cache",
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T11:49:42Z",
-                "open_issues": 955,
+                "last_commit": "2026-11-09T12:32:14Z",
+                "open_issues": 962,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12309,
+                "stars": 12312,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1372,11 +1372,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T11:49:42Z",
-                "open_issues": 955,
+                "last_commit": "2026-11-09T12:32:14Z",
+                "open_issues": 962,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12309,
+                "stars": 12312,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1450,7 +1450,7 @@
                 "open_issues": 0,
                 "owner": "LaVi-Lab",
                 "repo": "AIM",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1566,7 +1566,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22242,
+                "stars": 22241,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2078,7 +2078,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6809,
+                "stars": 6811,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2099,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6809,
+                "stars": 6811,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6809,
+                "stars": 6811,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2197,7 +2197,7 @@
                 "open_issues": 6,
                 "owner": "maomaocun",
                 "repo": "dLLM-cache",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:01:17.279Z",
+    "last_updated": "2026-11-09T14:04:48.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
@@ -2338,7 +2338,7 @@
       "open_issues": 7,
       "owner": "October2001",
       "repo": "Awesome-KV-Cache-Compression",
-      "stars": 750,
+      "stars": 751,
       "topics": [
         "awesome-list",
         "large-language-models",
