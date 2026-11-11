@@ -15,8 +15,8 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T13:58:53Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-11T09:51:54Z",
+            "open_issues": 16,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1249,
@@ -130,16 +130,17 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T13:34:20Z",
-                "open_issues": 967,
+                "last_commit": "2026-11-11T12:49:13Z",
+                "open_issues": 976,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12327,
+                "stars": 12336,
                 "topics": [
                   "amd",
                   "cuda",
                   "fast",
                   "inference",
+                  "intel",
                   "kv-cache",
                   "llm",
                   "pytorch",
@@ -166,7 +167,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7277,
+                "stars": 7278,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -261,7 +262,7 @@
                 "open_issues": 10,
                 "owner": "Zefan-Cai",
                 "repo": "R-KV",
-                "stars": 1222,
+                "stars": 1223,
                 "topics": [
                   "kvcache",
                   "llm",
@@ -286,7 +287,7 @@
                 "open_issues": 55,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 868,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -557,7 +558,7 @@
                 "open_issues": 4,
                 "owner": "snu-mllab",
                 "repo": "KVzip",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "kv-cache-compression",
                   "large-language-models"
@@ -1372,16 +1373,17 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T13:34:20Z",
-                "open_issues": 967,
+                "last_commit": "2026-11-11T12:49:13Z",
+                "open_issues": 976,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12327,
+                "stars": 12336,
                 "topics": [
                   "amd",
                   "cuda",
                   "fast",
                   "inference",
+                  "intel",
                   "kv-cache",
                   "llm",
                   "pytorch",
@@ -1566,7 +1568,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22241,
+                "stars": 22242,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1816,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1837,7 +1839,7 @@
                 "open_issues": 7,
                 "owner": "jy-yuan",
                 "repo": "KIVI",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "inference",
                   "large-language-models",
@@ -1866,7 +1868,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -2078,7 +2080,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6813,
+                "stars": 6815,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2099,7 +2101,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6813,
+                "stars": 6815,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2120,7 +2122,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6813,
+                "stars": 6815,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2326,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:37:31.773Z",
+    "last_updated": "2026-11-11T12:49:37.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
