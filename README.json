@@ -15,11 +15,11 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T09:51:54Z",
+            "last_commit": "2026-11-16T08:53:38Z",
             "open_issues": 18,
             "owner": "NVIDIA",
             "repo": "kvpress",
-            "stars": 1254,
+            "stars": 1255,
             "topics": [
               "inference",
               "kv-cache",
@@ -81,7 +81,7 @@
             "open_issues": 2,
             "owner": "TreeAI-Lab",
             "repo": "Awesome-KV-Cache-Management",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "llm",
               "survey"
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T09:32:12Z",
-                "open_issues": 959,
+                "last_commit": "2026-11-16T13:17:37Z",
+                "open_issues": 965,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12367,
+                "stars": 12374,
                 "topics": [
                   "amd",
                   "cuda",
@@ -167,7 +167,7 @@
                 "open_issues": 50,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
-                "stars": 7275,
+                "stars": 7276,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -287,7 +287,7 @@
                 "open_issues": 55,
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 868,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1192,7 +1192,7 @@
                 "open_issues": 0,
                 "owner": "cvsp-lab",
                 "repo": "RestoreKV",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "kvcache",
                   "kvcache-compression",
@@ -1373,11 +1373,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T09:32:12Z",
-                "open_issues": 959,
+                "last_commit": "2026-11-16T13:17:37Z",
+                "open_issues": 965,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12367,
+                "stars": 12374,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1722,7 +1722,7 @@
                 "open_issues": 92,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5055,
+                "stars": 5056,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1868,7 +1868,7 @@
                 "open_issues": 18,
                 "owner": "SqueezeAILab",
                 "repo": "KVQuant",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "compression",
                   "efficient-inference",
@@ -1926,7 +1926,7 @@
                 "open_issues": 5,
                 "owner": "OpenBitSys",
                 "repo": "BitDecoding",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2328,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:51:05.303Z",
+    "last_updated": "2026-11-16T13:49:27.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
