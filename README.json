@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T11:15:19Z",
-                "open_issues": 1033,
+                "last_commit": "2026-11-22T10:09:35Z",
+                "open_issues": 1037,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12405,
+                "stars": 12410,
                 "topics": [
                   "amd",
                   "cuda",
@@ -382,7 +382,7 @@
                 "open_issues": 6,
                 "owner": "mit-han-lab",
                 "repo": "Quest",
-                "stars": 414,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -403,7 +403,7 @@
                 "open_issues": 19,
                 "owner": "FasterDecoding",
                 "repo": "SnapKV",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "long-context-modeling"
                 ]
@@ -894,7 +894,7 @@
                 "open_issues": 1,
                 "owner": "princeton-pli",
                 "repo": "PruLong",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1373,11 +1373,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T11:15:19Z",
-                "open_issues": 1033,
+                "last_commit": "2026-11-22T10:09:35Z",
+                "open_issues": 1037,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12405,
+                "stars": 12410,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1568,7 +1568,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22247,
+                "stars": 22250,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -1722,7 +1722,7 @@
                 "open_issues": 92,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V2",
-                "stars": 5053,
+                "stars": 5055,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "0xSero",
                 "repo": "turboquant",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2080,7 +2080,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6846,
+                "stars": 6852,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2101,7 +2101,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6846,
+                "stars": 6852,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2122,7 +2122,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6846,
+                "stars": 6852,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2328,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:35:33.341Z",
+    "last_updated": "2026-11-22T13:27:53.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
