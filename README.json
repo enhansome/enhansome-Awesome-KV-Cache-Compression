@@ -15,8 +15,8 @@
             "id": 884452470,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T09:04:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-26T16:23:23Z",
+            "open_issues": 14,
             "owner": "NVIDIA",
             "repo": "kvpress",
             "stars": 1261,
@@ -50,7 +50,7 @@
             "open_issues": 4,
             "owner": "Zefan-Cai",
             "repo": "KVCache-Factory",
-            "stars": 1393,
+            "stars": 1394,
             "topics": [
               "kv-cache",
               "kv-cache-compression",
@@ -130,11 +130,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:25:46Z",
-                "open_issues": 1051,
+                "last_commit": "2026-11-27T15:06:01Z",
+                "open_issues": 1030,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12482,
+                "stars": 12498,
                 "topics": [
                   "amd",
                   "cuda",
@@ -164,7 +164,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-11T08:14:43Z",
-                "open_issues": 50,
+                "open_issues": 52,
                 "owner": "mit-han-lab",
                 "repo": "streaming-llm",
                 "stars": 7274,
@@ -216,7 +216,7 @@
                 "open_issues": 4,
                 "owner": "Zefan-Cai",
                 "repo": "KVCache-Factory",
-                "stars": 1393,
+                "stars": 1394,
                 "topics": [
                   "kv-cache",
                   "kv-cache-compression",
@@ -308,7 +308,7 @@
                 "open_issues": 3,
                 "owner": "HKUDS",
                 "repo": "SepLLM",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "inference-speed",
                   "large-language-models",
@@ -426,7 +426,7 @@
                 "open_issues": 8,
                 "owner": "ByteDance-Seed",
                 "repo": "ShadowKV",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "cpu-offload",
                   "high-throughput",
@@ -1373,11 +1373,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:25:46Z",
-                "open_issues": 1051,
+                "last_commit": "2026-11-27T15:06:01Z",
+                "open_issues": 1030,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12482,
+                "stars": 12498,
                 "topics": [
                   "amd",
                   "cuda",
@@ -1568,7 +1568,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22253,
+                "stars": 22255,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2080,7 +2080,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6862,
+                "stars": 6870,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2101,7 +2101,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6862,
+                "stars": 6870,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2122,7 +2122,7 @@
                 "open_issues": 124,
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6862,
+                "stars": 6870,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:30:22.301Z"
@@ -2328,7 +2328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T15:28:58.262Z",
+    "last_updated": "2026-11-27T15:20:57.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers on KV Cache Compression (constantly updating 🤗).",
